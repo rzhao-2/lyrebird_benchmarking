@@ -1,0 +1,181 @@
+
+import extern
+import os
+import sys
+sys.path.append("..")
+# from app import object
+
+from tool_reference_data import *
+
+# num_threads = config['benchmarking_threads']
+num_threads = 1  # For debugging purposes, set to 1 thread
+
+output_prefix = 'output_'
+output_dirs = list([output_prefix+tool for tool in tools])
+output_dirs_dict = dict(zip(tools, output_dirs))
+
+benchmark_dir = 'benchmarks'
+
+datasets = list(['2_component_'+str(i) for i in range(100)])
+
+fastq_dir = 'local_reads'
+truth_dir = os.path.join(workflow.basedir, 'truths')
+# microbial_fasta_paths = 'microbial_rep_paths_no_proviruses.csv'
+microbial_fasta_paths = "novel_genomes_without_proviruses.txt"
+# genome_fasta_paths = 'genome_rep_paths.csv'
+genome_fasta_paths = 'viral_rep_paths.tsv'
+coverage_definitions_folder = 'coverage_definitions'
+
+os.makedirs(fastq_dir, exist_ok=True)
+os.makedirs(truth_dir, exist_ok=True)
+os.makedirs(benchmark_dir, exist_ok=True)
+
+# debug
+tools = ['lyrebird']
+# datasets = [datasets[6]] # debug
+
+##################################################################### things that should be in config
+
+# gtdb_bac_metadata = '/mnt/hpccs01/work/microbiome/db/gtdb/gtdb_release214/bac120_metadata_r214.tsv'
+# gtdb_ar_metadata = '/mnt/hpccs01/work/microbiome/db/gtdb/gtdb_release214/ar53_metadata_r214.tsv'
+microbial_metadata = "novel_genomes_without_proviruses_taxonomy.tsv"
+# proviruses = "/home/n10927662/misc_scripts/build_and_roundrobin/gtdb_proviruses_r214.tsv"
+viral_metadata = '../viral_metadata_reconstructed.tsv'
+
+
+##################################################################### reference databases
+
+lyrebird_metapackage = "/mnt/hpccs01/work/microbiome/msingle/rossenzhao/phrogs_v4.1/0.3/metapackage/lyrebird_v0.3.1_phrog_v4.1_20250720.smpkg"
+# lyrebird_metapackage = "/mnt/hpccs01/work/microbiome/msingle/rossenzhao/phrogs_v4.1/0.3/metapackage/lyrebird_v0.0.3_phrog_v4.1_metapackage.smpkg"
+# lyrebird_metapackage = "/mnt/hpccs01/work/microbiome/msingle/rossenzhao/phrogs_v4.1/0.3/metapackage/phrog4.1_v0.3.2025_06_12.smpkg"
+
+#####################################################################
+
+
+rule all:
+    input:
+        expand(output_prefix+"{tool}/opal/{sample}.opal_report", sample=datasets, tool=tools),
+        output_dirs_dict['lyrebird'] + "/lyrebird_fpr.done",
+        output_dirs_dict['lyrebird'] + "/lyrebird_culprits.done",
+
+rule generate_community_and_reads:
+    output:
+        r1=fastq_dir + "/{sample}.1.fq.gz",
+        r2=fastq_dir + "/{sample}.2.fq.gz",
+        condensed = truth_dir + "/{sample}.condensed",
+        genomewise = truth_dir + "/{sample}.genomewise.csv",
+        done = touch(truth_dir + "/{sample}.finished"),
+        done2 = touch(fastq_dir + "/{sample}.finished"),
+    params:
+        coverage_number = lambda wildcards: wildcards.sample.replace('marine', ''),
+    threads: num_threads
+    resources:
+        mem_mb = 8*1024,
+        runtime = 24*60,
+    conda:
+        'envs/art.yml'
+    shell:
+        "{workflow.basedir}/generate_community.py --art art_illumina --threads {threads} " \
+        "--coverage-file {workflow.basedir}/coverage_definitions/coverage{params.coverage_number}.tsv " \
+        "--viral-metadata {viral_metadata} --viral-genome-list {genome_fasta_paths} " \
+        # "--gtdb-bac-metadata {gtdb_bac_metadata} --gtdb-ar-metadata {gtdb_ar_metadata} " \
+        "--microbial-metadata {microbial_metadata} " \
+        "--microbial-genome-list {microbial_fasta_paths} --output-condensed {output.condensed} " \
+        "-1 {fastq_dir}/{wildcards.sample}.1.fq.gz -2 {fastq_dir}/{wildcards.sample}.2.fq.gz --output-genomewise-coverage {output.genomewise}"
+
+rule truth_condensed_to_biobox:
+    input:
+        condensed = truth_dir + "/{sample}.condensed",
+    output:
+        biobox = truth_dir + "/{sample}.condensed.biobox",
+    conda:
+        "envs/singlem.yml"
+    shell:
+        "{workflow.basedir}/../bin/condensed_profile_to_biobox.py --input-condensed-table {input.condensed} " \
+        "--output-biobox {output.biobox}"
+
+rule tool_condensed_to_biobox:
+    input:
+        profile = output_prefix + "{tool}/{tool}/{sample}.profile",
+        truth = truth_dir + "/{sample}.condensed.biobox",
+    output:
+        biobox = output_prefix + "{tool}/biobox/{sample}.biobox",
+    conda:
+        "envs/singlem.yml"
+    shell:
+        "{workflow.basedir}/../bin/condensed_profile_to_biobox.py --input-condensed-table {input.profile} " \
+        "--output-biobox {output.biobox} --template-biobox {input.truth} "
+
+rule opal:
+    input:
+        biobox = output_prefix+"{tool}/biobox/{sample}.biobox",
+        truth = truth_dir + "/{sample}.condensed.biobox",
+    params:
+        output_dir = output_prefix+"{tool}",
+        output_opal_dir = output_prefix+"{tool}/opal/{sample}.opal_output_directory",
+    output:
+        report=output_prefix+"{tool}/opal/{sample}.opal_report",
+        done=output_prefix+"{tool}/opal/{sample}.opal_report.done",
+    conda:
+        'envs/opal.yml'
+    shell:
+        "opal.py -g {input.truth} -o {params.output_opal_dir} {input.biobox} || echo 'expected opal non-zero existatus'; mv {params.output_opal_dir}/results.tsv {output.report} && rm -rf {params.output_opal_dir} && touch {output.done}"
+
+
+###############################################################################################
+###############################################################################################
+
+rule lyrebird_run_to_profile:
+    input:
+        r1=fastq_dir + "/{sample}.1.fq.gz",
+        r2=fastq_dir + "/{sample}.2.fq.gz",
+        db=lyrebird_metapackage,
+    benchmark:
+        benchmark_dir + "/lyrebird/{sample}-"+str(num_threads)+"threads.benchmark"
+    output:
+        report=output_dirs_dict['lyrebird'] + "/lyrebird/{sample}.profile",
+        otu_table = output_dirs_dict['lyrebird'] + "/lyrebird/{sample}.otu_table",
+        done=touch(output_dirs_dict['lyrebird'] + "/lyrebird/{sample}.profile.done")
+    conda:
+        "singlem-v0.19.0"
+    threads:
+        num_threads
+    resources:
+        mem_mb = 8*1024,
+        runtime = 1*60,
+    log:
+        output_dirs_dict['lyrebird'] + "/logs/lyrebird/{sample}.log"
+    shell:
+        "lyrebird pipe --threads {threads} -1 {input.r1} -2 {input.r2} -p {output.report} --otu-table {output.otu_table} --output-extras --metapackage {input.db} &> {log}"
+
+rule calculate_fpr:
+    input:
+        viral_rep_paths = genome_fasta_paths,
+        otu_tables = expand(output_dirs_dict['lyrebird'] + "/lyrebird/{sample}.otu_table", sample=datasets),
+        genomewise_tables = expand(truth_dir + "/{sample}.genomewise.csv", sample=datasets),
+        r1 = expand(fastq_dir + "/{sample}.1.fq.gz", sample=datasets),
+        r2 = expand(fastq_dir + "/{sample}.2.fq.gz", sample=datasets),
+        done = expand(output_dirs_dict['lyrebird'] + "/lyrebird/{sample}.profile.done", sample=datasets)
+    output:
+        fpr_report = output_dirs_dict['lyrebird'] + "/lyrebird_fpr.tsv",
+        done = touch(output_dirs_dict['lyrebird'] + "/lyrebird_fpr.done")
+    conda:
+        "envs/singlem.yml"
+    log:
+        output_dirs_dict['lyrebird'] + "/logs/lyrebird/lyrebird_fpr.log"
+    script:
+        "fpr.py"
+
+rule investigate_culprits:
+    input:
+        otu_tables = expand(output_dirs_dict['lyrebird'] + "/lyrebird/{sample}.otu_table", sample=datasets),
+        done = expand(output_dirs_dict['lyrebird'] + "/lyrebird/{sample}.profile.done", sample=datasets)
+    output:
+        culprits = output_dirs_dict['lyrebird'] + "/lyrebird_culprits.tsv",
+        done = touch(output_dirs_dict['lyrebird'] + "/lyrebird_culprits.done")
+    conda:
+        "envs/singlem.yml"
+    log:
+        output_dirs_dict['lyrebird'] + "/logs/lyrebird/lyrebird_culprits.log"
+    script:
+        "investigate_culprits.py"

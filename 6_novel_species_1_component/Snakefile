@@ -1,0 +1,194 @@
+import polars as pl
+import extern
+import os
+import sys
+sys.path.append("..")
+# from app import object
+
+from tool_reference_data import *
+
+# num_threads = config['benchmarking_threads']
+num_threads = 1  # For debugging purposes, set to 1 thread
+
+output_prefix = 'output_'
+tempdir = '/tmp'
+output_dirs = list([output_prefix+tool for tool in tools])
+output_dirs_dict = dict(zip(tools, output_dirs))
+
+benchmark_dir = 'benchmarks'
+
+# mpa_db = "/mnt/weka/scratch/microbiome/n10927662/mpa/db"
+mpa_db = "/mnt/hpccs01/home/n10927662/db/mpa"
+
+# datasets = list(['marine'+str(i) for i in range(10)])
+
+fastq_dir = 'local_reads'
+truth_dir = os.path.join(workflow.basedir, 'truths')
+genome_fasta_paths = pl.read_csv('genome_rep_paths.csv', separator='\t', has_header=False, new_columns=['sample', 'filepath'])
+
+# coverage_definitions_folder = 'coverage_definitions'
+
+# Restrict to r207-consistent tools
+# tools = r207_tools
+
+# debug
+tools = ['lyrebird', 'metaphlan4', 'phanta']
+# tools = ['lyrebird', 'metaphlan4']
+# datasets = [datasets[6]] # debug
+
+ictv_novelties = pl.read_csv(os.path.join(workflow.basedir, 'genome_rep_tax.csv'), separator='\t', has_header=False, new_columns=['sample', 'taxonomy'])
+# ictv_novelties.columns = ['sample','taxonomy']
+
+
+##################################################################### things that should be in config
+
+viral_metadata = '../viral_metadata_reconstructed.tsv'
+novel_viral_metadata = '/mnt/hpccs01/work/microbiome/msingle/rossenzhao/lyrebird_novelty/viral_metadata_novel_clus.tsv'
+novel_genome_fasta_paths = "/mnt/hpccs01/work/microbiome/msingle/rossenzhao/lyrebird_novelty/galah_ictv_reps.txt"
+
+##################################################################### reference databases
+
+# lyrebird_metapackage = "/mnt/hpccs01/work/microbiome/msingle/rossenzhao/phrogs_v4.1/0.3/metapackage/lyrebird_v0.0.3_phrog_v4.1_metapackage.smpkg"
+lyrebird_metapackage = "/mnt/hpccs01/work/microbiome/msingle/rossenzhao/phrogs_v4.1/0.3/metapackage/lyrebird_v0.3.1_phrog_v4.1_20250720.smpkg"
+
+#####################################################################
+
+
+rule all:
+    input:
+        expand(output_prefix+"{tool}/{sample}.output.done", tool=tools, sample=ictv_novelties['sample']),
+
+rule generate_community_and_reads:
+    output:
+        r1=fastq_dir + "/{sample}.1.fq.gz",
+        r2=fastq_dir + "/{sample}.2.fq.gz",
+        condensed = truth_dir + "/{sample}.relabund_condensed",
+        reads_wise_condensed = truth_dir + "/{sample}.reads_wise_condensed",
+        done = fastq_dir + "/{sample}.finished"
+    threads: 1
+    conda:
+        'envs/art.yml'
+    params:
+        genome_fasta = lambda wildcards: genome_fasta_paths.filter(pl.col('sample')==wildcards.sample).get_column('filepath')[0],
+        taxonomy = lambda wildcards: ictv_novelties.filter(pl.col('sample')==wildcards.sample).get_column('taxonomy')[0],
+    shell:
+        "mkdir -p {truth_dir} {fastq_dir} && "
+        "{workflow.basedir}/generate_community.py "
+        "--art art_illumina "
+        "--genome-fasta {params.genome_fasta} "
+        "--taxonomy '{params.taxonomy}' "
+        "--output-condensed {output.condensed} "
+        "--output-reads-wise-condensed {output.reads_wise_condensed} "
+        "-1 {fastq_dir}/{wildcards.sample}.1.fq.gz "
+        "-2 {fastq_dir}/{wildcards.sample}.2.fq.gz "
+        "&& touch {output.done}"
+
+###############################################################################################
+###############################################################################################
+###############################################################################################
+#########
+######### tool-specific rules - lyrebird first
+
+# rule lyrebird_copy_metapackage:
+#     input:
+#         lyrebird_metapackage
+#     output:
+#         db=directory(lyrebird_metapackage_local),
+#         done=output_dirs_dict['lyrebird'] + "/lyrebird/data/done",
+#     shell:
+#         "cp -rL {input} {output.db} && touch {output.done}"
+
+rule lyrebird_run_to_profile:
+    input:
+        r1=fastq_dir + "/{sample}.1.fq.gz",
+        r2=fastq_dir + "/{sample}.2.fq.gz",
+        # db=lyrebird_metapackage_local,
+        db=lyrebird_metapackage,
+        # data_done=output_dirs_dict['lyrebird'] + "/lyrebird/data/done"
+    benchmark:
+        benchmark_dir + "/lyrebird/{sample}-"+str(num_threads)+"threads.benchmark"
+    output:
+        report=output_dirs_dict['lyrebird'] + "/{sample}.profile",
+        otu_table = output_dirs_dict['lyrebird'] + "/{sample}.otu_table",
+        done=touch(output_dirs_dict['lyrebird'] + "/{sample}.output.done")
+    conda:
+        "singlem-v0.19.0"
+    threads:
+        num_threads
+    log:
+        output_dirs_dict['lyrebird'] + "/logs/{sample}.log"
+    shell:
+        "lyrebird pipe --threads {threads} -1 {input.r1} -2 {input.r2} -p {output.report} --output-extras --otu-table {output.otu_table} --metapackage {input.db} &> {log}"
+
+### metaphlan4
+rule metaphlan4_profile_vsc:
+    input:
+        r1=fastq_dir + "/{sample}.1.fq.gz",
+        r2=fastq_dir + "/{sample}.2.fq.gz"
+    benchmark:
+        benchmark_dir + "/metaphlan4/{sample}-"+str(num_threads)+"threads.benchmark"
+    params:
+        bowtie2db = mpa_db, # database is now ~20GB, so this should be installed outside of the conda environment
+    output:
+        bowtie2out = temp(output_dirs_dict['metaphlan4'] + "/{sample}.b2o"),
+        sam = output_dirs_dict['metaphlan4'] + "/{sample}.sam",
+        report=output_dirs_dict['metaphlan4'] + "/{sample}.profile",
+        done=touch(output_dirs_dict['metaphlan4'] + "/{sample}.output.done")
+    conda:
+        # "envs/metaphlan.yml"
+        "metaphlan-v4.2.2"
+    threads:
+        num_threads
+    resources:
+        mem_mb = 40 * 1024,
+        runtime = 60 * 60,
+    log:
+        output_dirs_dict['metaphlan4'] + "/logs/{sample}.log"
+    shell:
+        "rm -f {output.bowtie2out}; " \
+        "metaphlan {input.r1},{input.r2} " \
+        "--db_dir {params.bowtie2db} --mapout {output.bowtie2out} --nproc {threads} " \
+        "--input_type fastq --profile_vsc --vsc_out {output.report} -s {output.sam} &> {log}; touch {output.report}" # touch output file because it will not create the file if not detected
+
+### phanta
+rule prepare_phanta_inputs:
+    input:
+        r1=fastq_dir + "/{sample}.1.fq.gz",
+        r2=fastq_dir + "/{sample}.2.fq.gz"
+    params:
+        phanta_config_example = "phanta_config_example.yaml",
+        # outdir = tempdir + "/{sample}_output_phanta",
+        outdir = output_dirs_dict['phanta'] + "/{sample}_output_phanta",
+        threads = num_threads
+    output:
+        sample_file = temp(output_dirs_dict['phanta'] + "/{sample}.txt"),
+        phanta_config = temp(output_dirs_dict['phanta'] + "/{sample}_config.yaml"),
+        # done=touch(output_dirs_dict['phanta'] + "/{sample}_config.done")
+    log:
+        output_dirs_dict['phanta'] + "/logs/{sample}_prepare.log"
+    script:
+        "prepare_phanta_inputs.py"
+
+rule phanta_profile:
+    input:
+        sample_file = output_dirs_dict['phanta'] + "/{sample}.txt",
+        phanta_config = output_dirs_dict['phanta'] + "/{sample}_config.yaml"
+    params:
+        outdir = directory(output_dirs_dict['phanta'] + "/{sample}_output"),
+    #     outdir = tempdir + "/{sample}_output_phanta"
+    benchmark:
+        benchmark_dir + "/phanta/{sample}-"+str(num_threads)+"threads.benchmark"
+    output:
+        # outdir = directory(output_dirs_dict['phanta'] + "/{sample}_output"),
+        done=touch(output_dirs_dict['phanta'] + "/{sample}.output.done")
+    conda:
+        "phanta_env"
+    threads:
+        num_threads
+    resources:
+        mem_mb = 36 * 1024,
+        runtime = 60 * 60,
+    log:
+        output_dirs_dict['phanta'] + "/logs/{sample}.log"
+    shell:
+        "rm -rf {params.outdir}; snakemake -s /mnt/hpccs01/home/n10927662/phanta/Snakefile --cores {threads} --max-threads {threads} --configfile {input.phanta_config} --use-conda --jobs 99 -F"

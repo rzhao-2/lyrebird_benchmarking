@@ -1,0 +1,1 @@
+J02459.1	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/lyrebird-benchmarking/6_novel_species_1_component/phanta_lambda/J02459.1.1.fq	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/lyrebird-benchmarking/6_novel_species_1_component/phanta_lambda/J02459.1.2.fq

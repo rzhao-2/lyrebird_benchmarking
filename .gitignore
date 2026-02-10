@@ -1,0 +1,11 @@
+.*
+*/.*
+*/local_reads
+*/output_*
+*/benchmarks
+*/truths
+__pycache__
+*/__pycache__
+get_novel_microbes/genomad
+!.gitignore
+

@@ -1,0 +1,49 @@
+# run genomad find-proviruses on MAGs
+import os
+from os.path import join
+
+genomad_db = "/mnt/hpccs01/home/n10927662/db/genomad_db"
+output_dir = "/home/n10927662/rossenzhao/lyrebird-benchmarking/get_novel_microbes/genomad"
+os.makedirs(output_dir, exist_ok=True)
+
+# formatted as name\tpath
+filepaths = "/home/n10927662/rossenzhao/lyrebird-benchmarking/get_novel_microbes/hq_mag_filepaths.txt"
+
+def get_samples_and_filepaths():
+    samples = []
+    filepaths_list = []
+    with open(filepaths, 'r') as f:
+        for line in f:
+            sample, path = line.strip().split('\t')
+            samples.append(sample)
+            filepaths_list.append(path)
+    return samples, filepaths_list
+
+samples_to_filepaths = dict(zip(*get_samples_and_filepaths()))
+
+rule all:
+    input:
+        expand(join(output_dir, "{sample}.done"), sample=samples_to_filepaths.keys())
+
+rule genomad:
+    input:
+        genome_fna = lambda wildcards: samples_to_filepaths[wildcards.sample],
+    params:
+        db = genomad_db,
+        outdir = join(output_dir, "{sample}"),
+    output:
+        done = touch(join(output_dir, "{sample}.done"))
+    threads: 1
+    resources:
+        mem_mb=20 * 1024,
+        runtime=8 * 60,
+    conda:
+        "genomad"
+    # log:
+    #     join("logs", "genomad_find_proviruses_{sample}.log")
+    shell:
+        # """
+        # genomad annotate --cleanup -t {threads} {input.genome_fna} {params.outdir} {params.db}; 
+        # genomad find-proviruses --cleanup -t {threads} {input.genome_fna} {params.outdir} {params.db}
+        # """
+        "genomad end-to-end --cleanup -t {threads} {input.genome_fna} {params.outdir} {params.db}"
