@@ -25,7 +25,7 @@ fastq_dir = 'local_reads'
 truth_dir = os.path.join(workflow.basedir, 'truths')
 #TODO: select genome paths
 genome_fasta_paths = 'genome_rep_paths.csv'
-coverage_definitions_folder = 'coverage_definitions_2'
+coverage_definitions_folder = 'coverage_definitions'
 
 # Restrict to r207-consistent tools
 tools = r207_tools
