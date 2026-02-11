@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_41.1	0.86	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_274_of_Caudoviricetes; f__novel_family_2_of_novel_order_274_of_Caudoviricetes
+2_component_41.1	7.94	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_274_of_Caudoviricetes; f__novel_family_2_of_novel_order_274_of_Caudoviricetes; g__Lanavirus; s__Lanavirus_lana

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_3.1	9.33	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_43_of_Caudoviricetes; f__novel_family_1_of_novel_order_43_of_Caudoviricetes; g__Coopervirus; s__Coopervirus_nigel

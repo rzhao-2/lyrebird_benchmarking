@@ -1,0 +1,13 @@
+ 99.36	1396	1396	0	0	U	0	unclassified
+  0.64	9	0	726	107	R	1	root
+  0.64	9	0	635	88	D	10239	  Viruses
+  0.64	9	0	635	88	D1	2731341	    Duplodnaviria
+  0.64	9	0	635	88	K	2731360	      Heunggongvirae
+  0.64	9	0	635	88	P	2731618	        Uroviricota
+  0.64	9	0	635	88	C	2731619	          Caudoviricetes
+  0.64	9	0	635	88	O	28883	            Caudovirales
+  0.64	9	0	613	86	F	10699	              Siphoviridae
+  0.64	9	5	592	83	F1	2842526	                Gutmannvirinae
+  0.28	4	0	319	49	G	2842944	                  Pebcunavirus
+  0.28	4	0	319	49	S	2843777	                    Bacillus virus PBC1
+  0.28	4	4	319	49	S1	1161901	                      Bacillus phage PBC1

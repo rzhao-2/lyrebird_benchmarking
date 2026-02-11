@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Microbacterium virus Fireman	2734253	S	666	642	1308	1.0	54206.0	1.0	1.0	7.2390510275615245	24130.1701	1000000.0	18448142.272073206	5568.500790431942	0.3666534966416436

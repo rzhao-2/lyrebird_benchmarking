@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_34.1	8.08	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_23_of_Caudoviricetes; f__Kyanoviridae; g__novel_genus_0_of_novel_subfamily_0_of_Kyanoviridae; s__Synechococcus_phage_S-H34

@@ -1,0 +1,3 @@
+accession	coverage	fasta	taxonomy	genome_size
+NC_055737.1	10	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/ictv-imgvr/genomes/NC_055737.1.fna	d__Viruses;p__Uroviricota;c__Caudoviricetes;o__novel_order_23_of_Caudoviricetes;f__Straboviridae;g__Bragavirus;s__Bragavirus_p43	167849
+binchicken_fen_co153.705	10	/mnt/hpccs01/work/microbiome/abisko/groopm/60_Emerge_MAGs_v4/Field/Aroney_v3/genomes/binchicken_fen_co153.705.fna	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__GWA2-44-7;f__UBA8517;g__;s__	765680

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_7.1	7.66	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_48_of_Caudoviricetes; f__novel_family_23_of_novel_order_48_of_Caudoviricetes; g__Kratiovirus; s__Kratiovirus_rando14

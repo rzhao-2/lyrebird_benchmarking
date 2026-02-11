@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Escherichia virus G8	2844201	S	41	5274	5315	1.0	166395.0	1.0	1.0	9.5826196700622	31942.0656	1000000.0	6009795.967426905	1808.0414471815473	0.4545454545454545

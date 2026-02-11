@@ -1,0 +1,35 @@
+  4.16	62	62	0	0	U	0	unclassified
+ 95.84	1428	0	65321	9144	R	1	root
+ 95.84	1428	0	65212	9130	D	10239	  Viruses
+ 95.84	1428	0	65212	9130	D1	2731341	    Duplodnaviria
+ 95.84	1428	0	65212	9130	K	2731360	      Heunggongvirae
+ 95.84	1428	0	65212	9130	P	2731618	        Uroviricota
+ 95.84	1428	0	65212	9130	C	2731619	          Caudoviricetes
+ 95.84	1428	0	65212	9130	O	28883	            Caudovirales
+ 95.84	1428	252	65204	9127	F	10699	              Siphoviridae
+ 68.52	1021	646	22222	3088	G	1623289	                Dhillonvirus
+  9.26	138	66	3562	482	G1	2219214	                  unclassified Dhillonvirus
+  2.75	41	41	1133	152	S	1883200	                    Escherichia phage Envy
+  1.74	26	26	1110	145	S	1720498	                    Escherichia phage slur05
+  0.34	5	5	463	67	S	1883202	                    Escherichia phage Gluttony
+  4.09	61	0	1661	234	S	1981026	                  Escherichia virus YD2008s
+  4.09	61	61	1661	234	S1	1567004	                    Escherichia phage YD-2008.s
+  3.56	53	0	1469	196	S	1954380	                  Sodalis virus SO1
+  3.56	53	53	1469	196	S1	673375	                    Sodalis phage SO1
+  3.42	51	0	1373	202	S	1981027	                  Escherichia virus EK99P1
+  3.42	51	51	1373	202	S1	1527514	                    Escherichia phage EK99P-1
+  1.48	22	0	764	105	S	1954379	                  Shigella virus EP23
+  1.48	22	22	764	105	S1	1109721	                    Shigella phage EP23
+  1.41	21	21	818	114	S	624134	                  Escherichia virus SSL2009a
+  1.41	21	0	1031	164	S	1954378	                  Escherichia virus HK578
+  1.41	21	21	1031	164	S1	1147142	                    Escherichia phage HK578
+  0.54	8	8	616	82	S	1245890	                  Escherichia virus JL1
+ 10.40	155	67	5387	788	G	4001186	                mgv_g_4001186
+  2.15	32	0	1162	176	S	4035994	                  OTU-12890
+  2.15	32	32	1162	176	S1	4157224	                    MGV-GENOME-0289659
+  2.01	30	0	1368	206	S	4036641	                  OTU-66617
+  2.01	30	30	1368	206	S1	4071264	                    MGV-GENOME-0292133
+  1.41	21	0	1002	142	S	4037103	                  OTU-54575
+  1.41	21	21	1002	142	S1	4071704	                    MGV-GENOME-0294076
+  0.34	5	0	845	122	S	4036913	                  OTU-45108
+  0.34	5	5	845	122	S1	4111210	                    MGV-GENOME-0293293

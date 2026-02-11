@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Pseudomonas virus NP1	1982240	S	424	370	794	1.0	58326.0	1.0	1.0	4.083941981277646	13613.1399	1000000.0	17145012.515859134	5104.927476597058	0.1070723684210526

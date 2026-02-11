@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MT451980.1	6.96	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_54_of_Caudoviricetes; f__novel_family_26_of_novel_order_54_of_Caudoviricetes; g__novel_genus_2_of_novel_subfamily_6_of_novel_family_26_of_novel_order_54_of_Caudoviricetes; s__Streptomyces_phage_HFrancette

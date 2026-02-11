@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+ON184124.1	8.45	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus; s__Escherichia_phage_PC2

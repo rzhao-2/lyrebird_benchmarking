@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_21.1	0.16	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes
+2_component_21.1	10.15	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_191_of_novel_order_237_of_Caudoviricetes; g__Roufvirus; s__Klebsiella_phage_VLCpiS13e

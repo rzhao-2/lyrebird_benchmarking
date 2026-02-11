@@ -1,0 +1,1 @@
+KT716399	local_reads/KT716399.1.fq.gz	local_reads/KT716399.2.fq.gz

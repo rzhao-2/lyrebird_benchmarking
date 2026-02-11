@@ -1,0 +1,476 @@
+100.00	200919	0	R	1	root
+94.07	189007	0	D	10239	  Viruses
+94.07	189007	0	D1	2731341	    Duplodnaviria
+94.07	189007	0	K	2731360	      Heunggongvirae
+94.07	189007	0	P	2731618	        Uroviricota
+94.07	189007	0	C	2731619	          Caudoviricetes
+94.07	189007	0	O	28883	            Caudovirales
+23.12	46448	0	F	10662	              Myoviridae
+21.47	43129	0	G	186789	                Punavirus
+21.47	43129	43129	S	4050490	                  OTU-72413
+0.47	946	0	G	4000160	                mgv_g_4000160
+0.47	946	946	S	4051775	                  OTU-40588
+0.36	714	0	G	2843421	                Menderavirus
+0.20	397	0	G1	2852573	                  unclassified Menderavirus
+0.20	397	397	S	2555548	                    Stenotrophomonas phage YB07
+0.16	316	316	S	2846388	                  Stenotrophomonas virus IMESM1
+0.24	482	0	G	4000339	                mgv_g_4000339
+0.24	482	482	S	4040726	                  OTU-30941
+0.18	352	0	F1	857479	                Peduovirinae
+0.10	195	0	G	140410	                  Peduovirus
+0.10	195	195	S	2560459	                    Escherichia virus pro483
+0.08	157	0	G	2732979	                  Entnonagintavirus
+0.08	157	157	S	2734061	                    Erwinia virus ENT90
+0.15	306	0	G	2169625	                Svunavirus
+0.09	178	178	S	4019812	                  OTU-32576
+0.06	128	128	S	4022337	                  OTU-09109
+0.13	266	0	F1	196896	                unclassified Myoviridae
+0.13	266	266	S	66284	                  Shigella phage SfII
+0.13	252	0	G	1918725	                Jilinvirus
+0.13	252	0	G1	2293721	                  unclassified Jilinvirus
+0.13	252	252	S	1864622	                    Enterobacter phage Arya
+22.78	45760	0	F	10699	              Siphoviridae
+2.25	4514	0	G	4000000	                mgv_g_4000000
+0.10	204	204	S	4044560	                  OTU-50731
+0.55	1103	1103	S	4042867	                  OTU-11401
+0.03	64	64	S	4045574	                  OTU-01726
+0.03	56	56	S	4043926	                  OTU-54746
+0.50	1007	1007	S	4041208	                  OTU-20781
+0.01	30	30	S	4043608	                  OTU-09178
+0.01	30	30	S	4041036	                  OTU-12559
+0.01	23	23	S	4050862	                  OTU-67277
+0.71	1434	1434	S	4045546	                  OTU-51985
+0.28	561	561	S	4047644	                  OTU-45404
+2.09	4204	0	G	4000001	                mgv_g_4000001
+0.32	642	642	S	4041638	                  OTU-10628
+0.41	815	815	S	4045679	                  OTU-51861
+0.66	1328	1328	S	4045209	                  OTU-42856
+0.48	955	955	S	4047189	                  OTU-29692
+0.23	461	461	S	4047218	                  OTU-71931
+1.83	3684	0	G	4000021	                mgv_g_4000021
+1.72	3453	3453	S	4030923	                  OTU-26445
+0.11	231	231	S	4031643	                  OTU-33532
+1.47	2954	0	G	4000122	                mgv_g_4000122
+1.43	2872	2872	S	4029139	                  OTU-71624
+0.04	82	82	S	4025703	                  OTU-26935
+1.42	2860	0	G	4000008	                mgv_g_4000008
+0.08	170	170	S	4044259	                  OTU-06324
+0.05	92	92	S	4042369	                  OTU-15257
+0.29	590	590	S	4044723	                  OTU-22564
+0.70	1413	1413	S	4043327	                  OTU-12944
+0.30	594	594	S	4044514	                  OTU-43207
+1.24	2487	0	G	4000042	                mgv_g_4000042
+1.24	2487	2487	S	4031546	                  OTU-61407
+0.95	1901	0	G	186764	                Fromanvirus
+0.95	1901	0	G1	2562661	                  unclassified Fromanvirus
+0.95	1901	1901	S	2499042	                    Mycobacterium phage IronMan
+0.92	1857	0	G	4000194	                mgv_g_4000194
+0.92	1857	1857	S	4037066	                  OTU-54394
+0.58	1160	0	G	4000126	                mgv_g_4000126
+0.15	309	309	S	4022173	                  OTU-39919
+0.08	157	157	S	4023832	                  OTU-62204
+0.35	694	694	S	4025820	                  OTU-67861
+0.56	1122	0	F1	196894	                unclassified Siphoviridae
+0.16	317	317	S	1089121	                  Mycobacterium phage Dori
+0.09	173	173	S	413066	                  Streptococcus phage SMP
+0.10	194	194	S	1147140	                  Salmonella phage SPN3UB
+0.09	190	190	S	1871687	                  Lactococcus phage 63301
+0.04	86	86	S	320831	                  Staphylococcus phage PT1028
+0.07	133	133	S	1458852	                  Listeria phage LP-030-3
+0.01	14	14	S	1239381	                  Streptococcus phage phiNJ2
+0.01	12	12	S	347324	                  Pseudomonas phage F10
+0.54	1083	0	G	4000004	                mgv_g_4000004
+0.04	79	79	S	4039053	                  OTU-12096
+0.29	575	575	S	4037549	                  OTU-67502
+0.21	428	428	S	4029629	                  OTU-07126
+0.49	978	0	G	4000009	                mgv_g_4000009
+0.34	682	682	S	4023477	                  OTU-27373
+0.14	277	277	S	4028297	                  OTU-47353
+0.01	19	19	S	4049045	                  OTU-26772
+0.45	898	0	G	4000044	                mgv_g_4000044
+0.33	659	659	S	4021406	                  OTU-02323
+0.12	239	239	S	4022169	                  OTU-39599
+0.42	853	0	G	4000573	                mgv_g_4000573
+0.31	620	620	S	4047347	                  OTU-44547
+0.12	232	232	S	4047440	                  OTU-06798
+0.35	696	0	G	4000003	                mgv_g_4000003
+0.03	70	70	S	4037464	                  OTU-30820
+0.09	172	172	S	4036796	                  OTU-19341
+0.23	453	453	S	4037729	                  OTU-74143
+0.31	622	0	G	2733180	                Hiyaavirus
+0.31	622	622	S	2734239	                  Streptomyces virus Hiyaa
+0.28	558	0	G	1912760	                Cequinquevirus
+0.28	558	558	S	297254	                  Lactobacillus virus LLKu
+0.26	525	0	G	4000167	                mgv_g_4000167
+0.16	314	314	S	4035093	                  OTU-40698
+0.10	210	210	S	4033486	                  OTU-48032
+0.26	518	0	G	2733170	                Bridgettevirus
+0.26	518	518	S	2734222	                  Arthrobacter virus Bridgette
+0.24	492	0	G	4000494	                mgv_g_4000494
+0.24	492	492	S	4052963	                  OTU-32072
+0.24	480	0	F1	1982875	                Arquatrovirinae
+0.24	480	0	G	1982880	                  Likavirus
+0.24	480	0	G1	2220062	                    unclassified Likavirus
+0.24	480	480	S	2593360	                      Streptomyces phage Yasdnil
+0.22	444	0	G	4001116	                mgv_g_4001116
+0.22	444	444	S	4033144	                  OTU-71057
+0.21	427	0	G	4000383	                mgv_g_4000383
+0.21	427	427	S	4036530	                  OTU-38947
+0.21	425	0	G	2733174	                Feofaniavirus
+0.21	425	425	S	2734232	                  Erwinia virus Eho59
+0.21	419	0	F1	1910976	                Guernseyvirinae
+0.21	419	0	G	1910991	                  Jerseyvirus
+0.17	335	0	G1	2025810	                    unclassified Jerseyvirus
+0.17	335	335	S	1465613	                      Salmonella phage vB_SenS-Ent3
+0.04	84	84	S	2005694	                    Salmonella virus SETP13
+0.20	404	0	G	4000283	                mgv_g_4000283
+0.20	404	404	S	4043591	                  OTU-28894
+0.20	403	0	G	1623273	                Triavirus
+0.20	403	403	S	2846300	                  Staphylococcus virus fPfSau02
+0.19	373	0	G	4000081	                mgv_g_4000081
+0.19	373	373	S	4040903	                  OTU-61481
+0.18	368	0	F1	2842522	                Azeredovirinae
+0.18	368	0	G	1623298	                  Phietavirus
+0.18	368	368	S	2846258	                    Staphylococcus virus Henu2
+0.18	360	0	G	4000116	                mgv_g_4000116
+0.18	360	360	S	4031139	                  OTU-68057
+0.16	327	0	G	2843412	                Lambovirus
+0.16	327	327	S	2844666	                  Gordonia virus Gibbin
+0.16	324	0	G	2843445	                Rockefellervirus
+0.16	324	324	S	2846259	                  Staphylococcus virus IME1348-01
+0.16	316	0	G	2843470	                Vedamuthuvirus
+0.16	316	316	S	2845386	                  Lactococcus virus BM13
+0.15	307	0	G	4000018	                mgv_g_4000018
+0.15	307	307	S	4044492	                  OTU-72263
+0.14	291	0	G	2733220	                Vojvodinavirus
+0.14	291	291	S	2734289	                  Bordetella virus FP1
+0.14	290	0	G	2733222	                Zetavirus
+0.14	290	290	S	2734292	                  Microbacterium virus Zeta1847
+0.13	265	0	G	4000181	                mgv_g_4000181
+0.13	265	265	S	4013080	                  OTU-13947
+0.13	265	0	G	4000415	                mgv_g_4000415
+0.13	265	265	S	4020244	                  OTU-25801
+0.13	255	0	G	4000601	                mgv_g_4000601
+0.13	255	255	S	4019776	                  OTU-64562
+0.12	237	0	G	4000091	                mgv_g_4000091
+0.12	237	237	S	4025400	                  OTU-19214
+0.12	236	0	G	4000077	                mgv_g_4000077
+0.12	236	236	S	4024348	                  OTU-68763
+0.12	231	0	G	4000675	                mgv_g_4000675
+0.01	28	28	S	4022244	                  OTU-18890
+0.01	20	20	S	4027127	                  OTU-40657
+0.09	183	183	S	4023733	                  OTU-03454
+0.11	230	0	G	4000402	                mgv_g_4000402
+0.05	94	94	S	4012700	                  OTU-64207
+0.07	136	136	S	4029782	                  OTU-71053
+0.11	225	0	G	4000107	                mgv_g_4000107
+0.11	225	225	S	4021590	                  OTU-73810
+0.11	225	0	G	4000007	                mgv_g_4000007
+0.11	225	225	S	4049130	                  OTU-45493
+0.11	223	0	G	186765	                Lambdavirus
+0.11	223	223	S	2844130	                  Enterobacteria virus O276
+0.11	216	0	G	4000037	                mgv_g_4000037
+0.11	216	216	S	4033371	                  OTU-16294
+0.11	211	0	G	4000072	                mgv_g_4000072
+0.11	211	211	S	4038720	                  OTU-13339
+0.11	211	0	G	4000597	                mgv_g_4000597
+0.11	211	211	S	4022223	                  OTU-69933
+0.10	208	0	F1	2842523	                Bronfenbrennervirinae
+0.10	208	0	G	1623274	                  Biseptimavirus
+0.10	208	208	S	2846268	                    Staphylococcus virus P954
+0.10	203	0	G	4000176	                mgv_g_4000176
+0.10	203	203	S	4028479	                  OTU-30559
+0.10	198	0	G	2843393	                Iaduovirus
+0.10	198	198	S	2845144	                  Lactobacillus virus iA2
+0.10	196	0	G	4000470	                mgv_g_4000470
+0.05	93	93	S	4026592	                  OTU-11850
+0.02	47	47	S	4018145	                  OTU-62993
+0.03	56	56	S	4025356	                  OTU-35979
+0.10	196	0	G	4000394	                mgv_g_4000394
+0.10	196	196	S	4033828	                  OTU-16441
+0.09	188	0	G	4000507	                mgv_g_4000507
+0.09	188	188	S	4019588	                  OTU-08878
+0.09	185	0	G	4000485	                mgv_g_4000485
+0.09	185	185	S	4027979	                  OTU-62439
+0.08	158	0	G	1982251	                Pahexavirus
+0.08	158	158	S	1982259	                  Propionibacterium virus Ouroboros
+0.08	156	0	G	4000366	                mgv_g_4000366
+0.08	156	156	S	4029375	                  OTU-08078
+0.07	143	0	G	4000220	                mgv_g_4000220
+0.07	143	143	S	4028322	                  OTU-74543
+0.07	130	0	G	2560250	                Vieuvirus
+0.07	130	130	S	2560270	                  Acinetobacter virus R3177
+0.06	128	0	G	4001714	                mgv_g_4001714
+0.06	128	128	S	4028093	                  OTU-56032
+0.06	124	0	G	4000973	                mgv_g_4000973
+0.06	124	124	S	4023878	                  OTU-35341
+0.06	118	0	F1	2842530	                Trabyvirinae
+0.06	118	0	G	2843051	                  Slepowronvirus
+0.06	118	118	S	2845522	                    Listeria virus LPHM00113468
+0.05	110	0	G	4000064	                mgv_g_4000064
+0.05	110	110	S	4009654	                  OTU-33640
+0.04	90	0	G	4000105	                mgv_g_4000105
+0.04	90	90	S	4024075	                  OTU-19734
+0.03	68	0	G	4000483	                mgv_g_4000483
+0.03	68	68	S	4025113	                  OTU-32616
+0.02	46	0	G	4000621	                mgv_g_4000621
+0.02	46	46	S	4012555	                  OTU-52103
+0.02	45	0	G	4000307	                mgv_g_4000307
+0.02	45	45	S	4041641	                  OTU-58925
+0.02	43	0	G	4000119	                mgv_g_4000119
+0.02	43	43	S	4033675	                  OTU-47017
+0.02	34	0	G	1623299	                Phifelvirus
+0.02	34	34	S	1633149	                  Enterococcus virus FL1
+0.01	15	0	G	4000024	                mgv_g_4000024
+0.01	15	15	S	4027505	                  OTU-68839
+17.08	34310	0	G	4000124	              mgv_g_4000124
+17.06	34271	34271	S	4050712	                OTU-55553
+0.02	39	39	S	4050582	                OTU-09946
+6.53	13117	0	G	4002227	              mgv_g_4002227
+6.53	13117	13117	S	4053553	                OTU-05594
+5.04	10126	0	F	10744	              Podoviridae
+1.74	3493	0	F1	196895	                unclassified Podoviridae
+1.68	3372	0	F2	1978007	                  crAss-like viruses
+0.68	1376	0	G	4000031	                    mgv_g_4000031
+0.68	1376	1376	S	4051027	                      OTU-49915
+0.53	1074	0	F3	2780070	                    UAG-readthrough crAss clade
+0.53	1074	1074	S	2772093	                      crAssphage cr131_1
+0.46	922	0	G	4000048	                    mgv_g_4000048
+0.46	922	922	S	4051405	                      OTU-54444
+0.06	121	121	S	670252	                  Xylella phage Xfas53
+1.11	2227	0	G	542959	                Rauchvirus
+0.59	1184	1184	S	4032629	                  OTU-34160
+0.12	249	249	S	4039411	                  OTU-75869
+0.40	793	793	S	4039380	                  OTU-65158
+0.62	1247	0	G	186794	                Lederbergvirus
+0.39	781	781	S	4022867	                  OTU-05348
+0.09	190	0	G1	329158	                  unclassified Lederbergvirus
+0.09	190	190	S	221029	                    Enterobacteria phage ST104
+0.09	188	188	S	4038024	                  OTU-69386
+0.04	87	87	S	10761	                  Shigella virus Sf6
+0.42	847	0	G	542960	                Uetakevirus
+0.42	847	847	S	1982579	                  Escherichia virus phiV10
+0.30	600	0	G	4000345	                mgv_g_4000345
+0.30	600	600	S	4030119	                  OTU-60887
+0.26	522	0	F1	1981156	                Sepvirinae
+0.26	522	0	G	1981157	                  Traversvirus
+0.26	522	522	S	1981163	                    Escherichia virus PA28
+0.15	303	0	G	4000002	                mgv_g_4000002
+0.15	303	303	S	4008649	                  OTU-52433
+0.12	247	0	G	4000017	                mgv_g_4000017
+0.10	198	198	S	4005493	                  OTU-20372
+0.02	49	49	S	4006466	                  OTU-21993
+0.12	242	0	G	4000006	                mgv_g_4000006
+0.12	242	242	S	4005357	                  OTU-62749
+0.05	98	0	G	4000131	                mgv_g_4000131
+0.05	98	98	S	4007915	                  OTU-08586
+0.04	88	0	G	4000257	                mgv_g_4000257
+0.04	88	88	S	4004946	                  OTU-05656
+0.04	87	0	G	4000409	                mgv_g_4000409
+0.04	87	87	S	4009629	                  OTU-07683
+0.03	64	0	G	4000043	                mgv_g_4000043
+0.03	64	64	S	4005245	                  OTU-40173
+0.03	58	0	G	4000123	                mgv_g_4000123
+0.03	58	58	S	4005322	                  OTU-48151
+2.25	4522	0	G	4000067	              mgv_g_4000067
+2.25	4522	4522	S	4032738	                OTU-21058
+1.40	2822	0	G	4000141	              mgv_g_4000141
+1.40	2822	2822	S	4052809	                OTU-11870
+1.13	2263	0	G	4000282	              mgv_g_4000282
+1.13	2263	2263	S	4029401	                OTU-42919
+0.86	1727	0	G	4000274	              mgv_g_4000274
+0.86	1727	1727	S	4041055	                OTU-08796
+0.84	1684	0	G	4000375	              mgv_g_4000375
+0.84	1684	1684	S	4031822	                OTU-17615
+0.70	1401	0	G	4000057	              mgv_g_4000057
+0.23	465	465	S	4051432	                OTU-43790
+0.47	936	936	S	4051562	                OTU-21487
+0.67	1343	0	G	4000223	              mgv_g_4000223
+0.67	1343	1343	S	4054240	                OTU-70417
+0.53	1062	0	G	4000825	              mgv_g_4000825
+0.53	1062	1062	S	4054630	                OTU-23577
+0.52	1047	0	G	4000026	              mgv_g_4000026
+0.52	1047	1047	S	4050167	                OTU-58214
+0.52	1037	0	G	4000058	              mgv_g_4000058
+0.30	595	595	S	4047896	                OTU-22998
+0.22	441	441	S	4048546	                OTU-14192
+0.51	1025	0	G	4000054	              mgv_g_4000054
+0.51	1025	1025	S	4040011	                OTU-76353
+0.50	999	0	G	4000005	              mgv_g_4000005
+0.27	532	532	S	4026848	                OTU-63791
+0.23	466	466	S	4033170	                OTU-42354
+0.47	953	0	G	4000149	              mgv_g_4000149
+0.13	270	270	S	4026542	                OTU-36640
+0.34	683	683	S	4027020	                OTU-31460
+0.45	906	0	F	2560065	              Herelleviridae
+0.45	906	0	G	2843016	                Salchichonvirus
+0.45	906	906	S	298338	                  Lactobacillus virus LP65
+0.42	853	0	G	4000150	              mgv_g_4000150
+0.42	853	853	S	4023464	                OTU-34075
+0.40	802	0	G	4001264	              mgv_g_4001264
+0.40	802	802	S	4054130	                OTU-67807
+0.37	736	0	G	4000030	              mgv_g_4000030
+0.17	332	332	S	4052825	                OTU-04292
+0.20	403	403	S	4047266	                OTU-24719
+0.35	704	0	F	2731643	              Autographiviridae
+0.35	704	0	F1	2731653	                Studiervirinae
+0.18	355	0	G	110456	                  Teseptimavirus
+0.09	187	0	G1	329157	                    unclassified Teseptimavirus
+0.09	187	187	S	2175295	                      Pseudomonas virus Pf1 ERZ-2017
+0.08	168	168	S	4029460	                    OTU-14815
+0.17	349	0	G	2732686	                  Kayfunavirus
+0.17	349	349	S	2733631	                    Citrobacter virus SH3
+0.34	688	0	G	4000047	              mgv_g_4000047
+0.34	688	688	S	4051800	                OTU-55442
+0.33	668	0	G	4000305	              mgv_g_4000305
+0.33	668	668	S	4047712	                OTU-02786
+0.32	652	0	G	4000288	              mgv_g_4000288
+0.32	652	652	S	4048346	                OTU-70782
+0.31	622	0	G	4000022	              mgv_g_4000022
+0.20	402	402	S	4036615	                OTU-51669
+0.11	220	220	S	4038284	                OTU-24825
+0.31	620	0	G	4000156	              mgv_g_4000156
+0.31	620	620	S	4037008	                OTU-36696
+0.30	611	0	G	4000102	              mgv_g_4000102
+0.30	611	611	S	4029776	                OTU-53922
+0.30	598	0	G	4000118	              mgv_g_4000118
+0.30	598	598	S	4027347	                OTU-19972
+0.28	568	0	G	4000391	              mgv_g_4000391
+0.28	568	568	S	4052536	                OTU-63307
+0.27	546	0	G	4000895	              mgv_g_4000895
+0.27	546	546	S	4033686	                OTU-09908
+0.25	508	0	G	4000612	              mgv_g_4000612
+0.25	508	508	S	4035566	                OTU-52560
+0.24	478	0	G	4000046	              mgv_g_4000046
+0.12	248	248	S	4056806	                OTU-51715
+0.11	230	230	S	4036259	                OTU-02997
+0.23	463	0	G	4000977	              mgv_g_4000977
+0.23	463	463	S	4023912	                OTU-41123
+0.23	458	0	G	4000407	              mgv_g_4000407
+0.23	458	458	S	4032587	                OTU-34189
+0.20	408	0	G	4000139	              mgv_g_4000139
+0.20	408	408	S	4038245	                OTU-15449
+0.19	385	0	G	4001771	              mgv_g_4001771
+0.19	385	385	S	4023886	                OTU-19721
+0.17	342	0	G	4001223	              mgv_g_4001223
+0.17	342	342	S	4039324	                OTU-00670
+0.17	342	0	G	4000075	              mgv_g_4000075
+0.17	342	342	S	4045243	                OTU-37063
+0.17	341	0	G	4000466	              mgv_g_4000466
+0.17	341	341	S	4050634	                OTU-35296
+0.16	325	0	G	4000040	              mgv_g_4000040
+0.16	325	325	S	4046673	                OTU-72115
+0.16	316	0	G	4000884	              mgv_g_4000884
+0.16	316	316	S	4051421	                OTU-16297
+0.16	312	0	F	2842327	              Rountreeviridae
+0.16	312	0	F1	2732588	                Rakietenvirinae
+0.16	312	0	G	680287	                  Rosenblumvirus
+0.16	312	0	G1	1234428	                    unclassified Rosenblumvirus
+0.16	312	312	S	2591106	                      Staphylococcus phage SA46-CL1
+0.15	297	0	G	4000080	              mgv_g_4000080
+0.15	297	297	S	4043751	                OTU-03612
+0.13	269	0	G	4000065	              mgv_g_4000065
+0.13	269	269	S	4029115	                OTU-24677
+0.13	259	0	G	4001088	              mgv_g_4001088
+0.13	259	259	S	4027891	                OTU-35478
+0.12	244	0	F	2842333	              Zobellviridae
+0.12	244	0	F1	2853025	                unclassified Zobellviridae
+0.12	244	244	S	1529058	                  Vibrio phage ICP2_2013_A_Haiti
+0.12	235	0	G	4000032	              mgv_g_4000032
+0.12	235	235	S	4038967	                OTU-34163
+0.11	226	0	G	4000606	              mgv_g_4000606
+0.11	226	226	S	4024648	                OTU-47652
+0.11	217	0	G	4000903	              mgv_g_4000903
+0.11	217	217	S	4019482	                OTU-16329
+0.10	209	0	G	4001413	              mgv_g_4001413
+0.10	209	209	S	4036976	                OTU-04939
+0.10	209	0	G	4002089	              mgv_g_4002089
+0.10	209	209	S	4029942	                OTU-07288
+0.08	167	0	G	4000012	              mgv_g_4000012
+0.08	167	167	S	4034495	                OTU-48706
+0.08	159	0	G	4000918	              mgv_g_4000918
+0.08	159	159	S	4037599	                OTU-00325
+0.06	126	0	G	4000672	              mgv_g_4000672
+0.06	126	126	S	4015946	                OTU-12414
+0.06	126	0	G	4000127	              mgv_g_4000127
+0.06	126	126	S	4035150	                OTU-04270
+0.04	85	0	G	4000061	              mgv_g_4000061
+0.04	85	85	S	4048117	                OTU-40047
+0.03	62	0	G	4000169	              mgv_g_4000169
+0.03	62	62	S	4039525	                OTU-04444
+0.02	49	0	G	4000277	              mgv_g_4000277
+0.02	49	49	S	4013100	                OTU-66399
+0.02	41	0	G	4001136	              mgv_g_4001136
+0.02	41	41	S	4027307	                OTU-10936
+0.02	41	0	G	4000190	              mgv_g_4000190
+0.02	41	41	S	4047112	                OTU-48323
+0.02	33	0	G	4000648	              mgv_g_4000648
+0.02	33	33	S	4034706	                OTU-33969
+0.02	31	0	G	4000261	              mgv_g_4000261
+0.02	31	31	S	4028387	                OTU-50742
+5.93	11912	0	R1	131567	  cellular organisms
+5.93	11912	0	D	2	    Bacteria
+3.31	6649	0	D1	1783272	      Terrabacteria group
+3.31	6649	0	P	1239	        Firmicutes
+2.47	4961	0	C	91061	          Bacilli
+2.47	4961	0	O	186826	            Lactobacillales
+2.47	4961	0	F	1300	              Streptococcaceae
+2.37	4758	0	G	1357	                Lactococcus
+2.37	4758	4758	S	1363	                  Lactococcus garvieae
+0.10	203	0	G	1301	                Streptococcus
+0.10	203	203	S	1304	                  Streptococcus salivarius
+0.64	1290	0	C	186801	          Clostridia
+0.64	1290	0	O	186802	            Clostridiales
+0.45	911	0	F	186803	              Lachnospiraceae
+0.45	911	0	G	841	                Roseburia
+0.45	911	911	S	360807	                  Roseburia inulinivorans
+0.19	379	0	F	541000	              Ruminococcaceae
+0.19	379	0	G	216851	                Faecalibacterium
+0.19	379	379	S	853	                  Faecalibacterium prausnitzii
+0.20	397	0	C	909932	          Negativicutes
+0.20	397	0	O	1843489	            Veillonellales
+0.20	397	0	F	31977	              Veillonellaceae
+0.20	397	0	G	29465	                Veillonella
+0.20	397	397	S	39778	                  Veillonella dispar
+2.02	4055	0	P	1224	      Proteobacteria
+1.93	3876	0	C	1236	        Gammaproteobacteria
+1.43	2879	0	O	91347	          Enterobacterales
+0.99	1997	0	F	543	            Enterobacteriaceae
+0.45	904	0	G	570	              Klebsiella
+0.45	904	904	S	548	                Klebsiella aerogenes
+0.33	655	0	G	561	              Escherichia
+0.33	655	655	S	562	                Escherichia coli
+0.22	436	0	G	620	              Shigella
+0.22	436	436	S	623	                Shigella flexneri
+0.34	676	0	F	1903411	            Yersiniaceae
+0.34	676	0	G	613	              Serratia
+0.34	676	676	S	615	                Serratia marcescens
+0.10	205	0	F	1903414	            Morganellaceae
+0.10	205	0	G	581	              Morganella
+0.10	205	205	S	582	                Morganella morganii
+0.50	997	0	O	135625	          Pasteurellales
+0.50	997	0	F	712	            Pasteurellaceae
+0.42	853	0	G	724	              Haemophilus
+0.42	853	853	S	729	                Haemophilus parainfluenzae
+0.07	143	0	G	416916	              Aggregatibacter
+0.07	143	143	S	739	                Aggregatibacter segnis
+0.09	178	0	C	28216	        Betaproteobacteria
+0.09	178	0	O	80840	          Burkholderiales
+0.09	178	0	F	995019	            Sutterellaceae
+0.09	178	0	G	577310	              Parasutterella
+0.09	178	178	S	487175	                Parasutterella excrementihominis
+0.42	843	0	P	32066	      Fusobacteria
+0.42	843	0	C	203490	        Fusobacteriia
+0.42	843	0	O	203491	          Fusobacteriales
+0.42	843	0	F	203492	            Fusobacteriaceae
+0.42	843	0	G	848	              Fusobacterium
+0.34	675	675	S	851	                Fusobacterium nucleatum
+0.08	167	167	S	860	                Fusobacterium periodonticum
+0.18	363	0	D1	1783270	      FCB group
+0.18	363	0	D2	68336	        Bacteroidetes/Chlorobi group
+0.18	363	0	P	976	          Bacteroidetes
+0.18	363	0	C	200643	            Bacteroidia
+0.18	363	0	O	171549	              Bacteroidales
+0.18	363	0	F	815	                Bacteroidaceae
+0.18	363	0	G	816	                  Bacteroides
+0.18	363	363	S	820	                    Bacteroides uniformis

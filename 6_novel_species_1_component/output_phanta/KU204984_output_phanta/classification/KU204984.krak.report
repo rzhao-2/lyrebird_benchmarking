@@ -1,0 +1,19 @@
+ 61.41	1176	1176	0	0	U	0	unclassified
+ 38.59	739	6	15463	2176	R	1	root
+ 37.91	726	0	15145	2139	D	10239	  Viruses
+ 37.91	726	0	15123	2132	D1	2731341	    Duplodnaviria
+ 37.91	726	0	15123	2132	K	2731360	      Heunggongvirae
+ 37.91	726	0	15123	2132	P	2731618	        Uroviricota
+ 37.91	726	0	15123	2132	C	2731619	          Caudoviricetes
+ 37.91	726	0	15123	2132	O	28883	            Caudovirales
+ 37.91	726	5	15123	2132	F	10699	              Siphoviridae
+ 37.65	721	159	14913	2107	G	1982355	                Pamexvirus
+ 26.84	514	0	10563	1452	S	1982357	                  Pseudomonas virus PaMx28
+ 26.84	514	514	10563	1452	S1	1175659	                    Pseudomonas phage PaMx28
+  1.41	27	0	1650	234	S	1982358	                  Pseudomonas virus PaMx74
+  1.41	27	27	1650	234	S1	1175663	                    Pseudomonas phage PaMx74
+  1.10	21	0	787	106	G1	2306284	                  unclassified Pamexvirus
+  1.10	21	21	787	106	S	1852622	                    Xanthomonas phage Xoo-sp2
+  0.37	7	0	250	35	R1	131567	  cellular organisms
+  0.37	7	0	188	26	D	2	    Bacteria
+  0.37	7	7	168	22	D1	1783272	      Terrabacteria group

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MN586033.1	6.74	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_47_of_Caudoviricetes; f__novel_family_7_of_novel_order_47_of_Caudoviricetes; g__novel_genus_7_of_novel_subfamily_1_of_novel_family_7_of_novel_order_47_of_Caudoviricetes; s__Corynebacterium_phage_EmiRose

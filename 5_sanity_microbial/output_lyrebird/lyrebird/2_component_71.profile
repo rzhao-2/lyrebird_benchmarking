@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_71.1	8.3	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_51_of_Caudoviricetes; f__novel_family_15_of_novel_order_51_of_Caudoviricetes; g__Cheoctovirus; s__Cheoctovirus_sandalphon

@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Escherichia virus IME253	2734003	S	858	301	1159	1.0	46375.0	1.0	1.0	7.497574123989218	24991.9137	1000000.0	21563342.3180593	6247.978436657682	0.5920940948223596

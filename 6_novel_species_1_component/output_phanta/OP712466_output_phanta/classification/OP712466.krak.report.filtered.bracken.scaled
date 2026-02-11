@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Pseudomonas virus Ab26	1921547	S	551	766	1317	1.0	42796.0	1.0	1.0	9.232171230956164	30773.9041	1000000.0	23366669.782222636	7101.670177658588	0.3789914115833517

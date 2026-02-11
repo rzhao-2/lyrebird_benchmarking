@@ -1,0 +1,6 @@
+sample	coverage	taxonomy
+MZ501266.1	2.34	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+MZ501266.1	0.41	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes
+MZ501266.1	2.55	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_4_of_novel_order_273_of_Caudoviricetes
+MZ501266.1	0.55	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_4_of_novel_order_273_of_Caudoviricetes; g__novel_genus_0_of_novel_subfamily_1_of_novel_family_4_of_novel_order_273_of_Caudoviricetes
+MZ501266.1	0.75	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_4_of_novel_order_273_of_Caudoviricetes; g__novel_genus_2_of_novel_subfamily_1_of_novel_family_4_of_novel_order_273_of_Caudoviricetes

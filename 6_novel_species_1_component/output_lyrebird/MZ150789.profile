@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+MZ150789.1	0.82	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+MZ150789.1	9.39	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_45_of_Caudoviricetes; f__novel_family_33_of_novel_order_45_of_Caudoviricetes; g__novel_genus_0_of_novel_subfamily_2_of_novel_family_33_of_novel_order_45_of_Caudoviricetes; s__Microbacterium_phage_Footloose

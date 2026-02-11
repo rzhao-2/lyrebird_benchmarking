@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_4.1	10.14	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_46_of_Caudoviricetes; f__novel_family_7_of_novel_order_46_of_Caudoviricetes; g__Vendettavirus|Tinalinvirus; s__Tinalinvirus_tinalin

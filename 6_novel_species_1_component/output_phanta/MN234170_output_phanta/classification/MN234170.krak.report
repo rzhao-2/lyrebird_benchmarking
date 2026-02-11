@@ -1,0 +1,11 @@
+ 98.78	1788	1788	0	0	U	0	unclassified
+  1.22	22	0	943	147	R	1	root
+  1.22	22	0	823	121	D	10239	  Viruses
+  1.22	22	0	823	121	D1	2731341	    Duplodnaviria
+  1.22	22	0	823	121	K	2731360	      Heunggongvirae
+  1.22	22	0	823	121	P	2731618	        Uroviricota
+  1.22	22	0	823	121	C	2731619	          Caudoviricetes
+  1.22	22	0	823	121	O	28883	            Caudovirales
+  1.22	22	0	823	121	F	10699	              Siphoviridae
+  1.22	22	3	812	120	G	1623306	                Timquatrovirus
+  1.05	19	19	703	102	G1	2562717	                  unclassified Timquatrovirus

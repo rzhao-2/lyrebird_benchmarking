@@ -1,0 +1,10 @@
+ 91.37	1270	1270	0	0	U	0	unclassified
+  8.63	120	0	7364	1048	R	1	root
+  8.63	120	0	7213	1018	D	10239	  Viruses
+  8.63	120	0	7213	1018	D1	2731341	    Duplodnaviria
+  8.63	120	0	7213	1018	K	2731360	      Heunggongvirae
+  8.63	120	0	7213	1018	P	2731618	        Uroviricota
+  8.63	120	0	7213	1018	C	2731619	          Caudoviricetes
+  8.63	120	0	7213	1018	O	28883	            Caudovirales
+  8.63	120	1	7210	1017	F	10699	              Siphoviridae
+  8.56	119	119	6989	983	G	2733170	                Bridgettevirus

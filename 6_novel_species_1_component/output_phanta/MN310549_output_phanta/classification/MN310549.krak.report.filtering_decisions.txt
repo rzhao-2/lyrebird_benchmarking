@@ -1,0 +1,2 @@
+species_taxid	superkingdom	max_cov	max_uniq_minimizers	kept
+2560490	10239	0.00350651209388865	49	False

@@ -1,0 +1,5 @@
+sample	coverage	taxonomy
+MN850629.1	2.31	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus
+MN850629.1	0.67	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus; s__Escherichia_phage_SECphi18
+MN850629.1	4.29	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus; s__Escherichia_phage_bob
+MN850629.1	1.51	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus; s__Escherichia_phage_vb_EcoS_bov22_1

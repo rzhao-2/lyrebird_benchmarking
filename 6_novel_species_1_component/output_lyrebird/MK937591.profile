@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+MK937591.1	1.44	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_44_of_Caudoviricetes; f__novel_family_0_of_novel_order_44_of_Caudoviricetes; g__Mementomorivirus; s__Mementomorivirus_mementomori
+MK937591.1	5.77	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_44_of_Caudoviricetes; f__novel_family_0_of_novel_order_44_of_Caudoviricetes; g__Mementomorivirus; s__Microbacterium_phage_Matzah

@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Escherichia virus ACGM12	1945565	S	836	438	1274	1.0	45730.0	1.0	1.0	8.357752022742183	27859.1734	1000000.0	21867483.052700635	6429.040017493987	0.5469490108665367

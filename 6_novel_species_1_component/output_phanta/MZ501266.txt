@@ -1,0 +1,1 @@
+MZ501266	local_reads/MZ501266.1.fq.gz	local_reads/MZ501266.2.fq.gz

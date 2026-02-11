@@ -1,0 +1,1 @@
+OQ579032	local_reads/OQ579032.1.fq.gz	local_reads/OQ579032.2.fq.gz

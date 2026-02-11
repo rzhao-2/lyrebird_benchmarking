@@ -1,0 +1,1 @@
+OL539442	local_reads/OL539442.1.fq.gz	local_reads/OL539442.2.fq.gz

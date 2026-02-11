@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_18.1	8.46	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_50_of_novel_order_237_of_Caudoviricetes; g__Dinavirus; s__Dinavirus_dina

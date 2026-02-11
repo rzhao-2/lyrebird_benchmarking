@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_30.1	0.01	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+2_component_30.1	8.57	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_2_of_novel_order_273_of_Caudoviricetes; g__novel_genus_4_of_Queuovirinae; s__Stenotrophomonas_phage_vB_SM_ytsc_ply2008005c

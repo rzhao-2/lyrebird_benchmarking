@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_81.1	7.2	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_161_of_novel_order_237_of_Caudoviricetes; g__Traversvirus; s__Traversvirus_tv86

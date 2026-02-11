@@ -1,0 +1,13 @@
+ 31.65	1190	1190	0	0	U	0	unclassified
+ 68.35	2570	20	70615	10060	R	1	root
+ 67.82	2550	2	69613	9966	D	10239	  Viruses
+ 67.77	2548	0	69606	9966	D1	2731341	    Duplodnaviria
+ 67.77	2548	0	69606	9966	K	2731360	      Heunggongvirae
+ 67.77	2548	0	69606	9966	P	2731618	        Uroviricota
+ 67.77	2548	0	69606	9966	C	2731619	          Caudoviricetes
+ 67.77	2548	1	69606	9966	O	28883	            Caudovirales
+ 67.74	2547	27	69267	9900	F	2731690	              Demerecviridae
+ 67.02	2520	970	68402	9754	F1	2732013	                Markadamsvirinae
+ 31.54	1186	794	28317	4005	G	2732017	                  Epseptimavirus
+  8.99	338	266	11766	1809	G	187218	                  Tequintavirus
+  0.69	26	0	1813	256	G	2732018	                  Haartmanvirus

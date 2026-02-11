@@ -1,0 +1,13 @@
+ 96.10	1379	1379	0	0	U	0	unclassified
+  3.90	56	1	1908	277	R	1	root
+  3.83	55	0	1797	260	D	10239	  Viruses
+  3.83	55	0	1797	260	D1	2731341	    Duplodnaviria
+  3.83	55	0	1797	260	K	2731360	      Heunggongvirae
+  3.83	55	0	1797	260	P	2731618	        Uroviricota
+  3.83	55	0	1797	260	C	2731619	          Caudoviricetes
+  3.83	55	0	1797	260	O	28883	            Caudovirales
+  3.83	55	1	1778	257	F	10699	              Siphoviridae
+  3.76	54	30	1756	254	F1	2842526	                Gutmannvirinae
+  1.67	24	21	1182	182	G	2842583	                  Carmenvirus
+  0.21	3	0	437	61	S	2843760	                    Bacillus virus Carmen17
+  0.21	3	3	437	61	S1	2072797	                      Bacillus phage Carmen17

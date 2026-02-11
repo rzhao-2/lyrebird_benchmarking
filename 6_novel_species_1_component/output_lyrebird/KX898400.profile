@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+KX898400.1	0.88	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_2_of_novel_order_273_of_Caudoviricetes; g__Nipunavirus
+KX898400.1	7.93	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_2_of_novel_order_273_of_Caudoviricetes; g__Nipunavirus; s__Pseudomonas_phage_JG054

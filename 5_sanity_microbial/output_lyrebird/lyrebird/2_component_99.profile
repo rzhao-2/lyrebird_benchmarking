@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_99.1	10.33	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_22_of_Caudoviricetes; f__novel_family_10_of_novel_order_22_of_Caudoviricetes; g__novel_genus_0_of_novel_subfamily_1_of_novel_family_10_of_novel_order_22_of_Caudoviricetes; s__Vibrio_phage_11895-B1

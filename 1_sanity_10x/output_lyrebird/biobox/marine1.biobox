@@ -1,0 +1,15 @@
+# Taxonomic Profiling Output
+@SampleID:SAMPLEID
+@Version:0.9.1
+@Ranks:kingdom|phylum|class|order|family|genus|species
+@TaxonomyID:ncbi-taxonomy_DATE
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+1	kingdom	1	d__Viruses	100.0
+2	phylum	1|2	d__Viruses|p__Uroviricota	100.0
+3	class	1|2|3	d__Viruses|p__Uroviricota|c__Caudoviricetes	100.0
+4	order	1|2|3|4	d__Viruses|p__Uroviricota|c__Caudoviricetes|o__novel_order_209_of_Caudoviricetes	100.0
+8	family	1|2|3|4|8	d__Viruses|p__Uroviricota|c__Caudoviricetes|o__novel_order_209_of_Caudoviricetes|f__Peduoviridae	100.0
+12	genus	1|2|3|4|8|12	d__Viruses|p__Uroviricota|c__Caudoviricetes|o__novel_order_209_of_Caudoviricetes|f__Peduoviridae|g__novel_genus_92_of_novel_subfamily_0_of_Peduoviridae||novel_family_191_of_novel_order_237_of_Caudoviricetes||novel_family_24_of_novel_order_209_of_Caudoviricetes	50.5998956703182
+13	genus	1|2|3|4|8|13	d__Viruses|p__Uroviricota|c__Caudoviricetes|o__novel_order_209_of_Caudoviricetes|f__Peduoviridae|g__Felsduovirus|Elveevirus|Gegevirus|Kapieceevirus|Dagavirus|Gegavirus	49.400104329681795
+21	species	1|2|3|4|8|12|21	d__Viruses|p__Uroviricota|c__Caudoviricetes|o__novel_order_209_of_Caudoviricetes|f__Peduoviridae|g__novel_genus_92_of_novel_subfamily_0_of_Peduoviridae||novel_family_191_of_novel_order_237_of_Caudoviricetes||novel_family_24_of_novel_order_209_of_Caudoviricetes|s__Finvirus_FIN13	50.5998956703182
+22	species	1|2|3|4|8|13|22	d__Viruses|p__Uroviricota|c__Caudoviricetes|o__novel_order_209_of_Caudoviricetes|f__Peduoviridae|g__Felsduovirus|Elveevirus|Gegevirus|Kapieceevirus|Dagavirus|Gegavirus|s__Felsduovirus_SopEphi	49.400104329681795

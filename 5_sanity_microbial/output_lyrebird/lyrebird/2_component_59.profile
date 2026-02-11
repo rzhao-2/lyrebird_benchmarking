@@ -1,0 +1,4 @@
+sample	coverage	taxonomy
+2_component_59.1	0.2	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_49_of_Caudoviricetes; f__novel_family_12_of_novel_order_49_of_Caudoviricetes
+2_component_59.1	0.19	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_49_of_Caudoviricetes; f__novel_family_12_of_novel_order_49_of_Caudoviricetes; g__Camvirus
+2_component_59.1	8.05	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_49_of_Caudoviricetes; f__novel_family_12_of_novel_order_49_of_Caudoviricetes; g__Camvirus; s__Camvirus_endor2

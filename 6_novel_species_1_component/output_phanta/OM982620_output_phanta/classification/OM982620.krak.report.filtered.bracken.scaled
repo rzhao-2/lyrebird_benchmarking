@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Pseudomonas virus VCM	2560685	S	2200	0	2200	1.0	98765.0	1.0	1.0	6.682529236065408	22275.0975	1000000.0	10125044.297068799	3037.51328912064	0.2438649816029435

@@ -1,0 +1,25 @@
+ 35.65	1767	1767	0	0	U	0	unclassified
+ 64.35	3189	28	94433	13324	R	1	root
+ 63.78	3161	0	93671	13241	D	10239	  Viruses
+ 63.78	3161	0	93671	13241	D1	2731341	    Duplodnaviria
+ 63.78	3161	0	93671	13241	K	2731360	      Heunggongvirae
+ 63.78	3161	0	93671	13241	P	2731618	        Uroviricota
+ 63.78	3161	0	93671	13241	C	2731619	          Caudoviricetes
+ 63.78	3161	9	93671	13241	O	28883	            Caudovirales
+ 63.60	3152	11	93156	13176	F	2560065	              Herelleviridae
+ 63.38	3141	26	92778	13119	F1	2560071	                Brockvirinae
+ 62.79	3112	2286	90688	12899	G	2732968	                  Schiekvirus
+  9.14	453	0	14338	1984	S	2734044	                    Enterococcus virus EFP01
+  9.14	453	251	14338	1984	S1	1926594	                      Enterococcus phage EFP01
+  4.08	202	158	6573	897	S2	4053590	                        OTU-33144
+  0.89	44	44	1564	205	S3	4066842	                          MGV-GENOME-0376090
+  5.53	274	0	8087	1233	S	2734045	                    Enterococcus virus EfV12
+  5.53	274	211	8087	1233	S1	2315766	                      Enterococcus phage EfV12-phi1
+  1.27	63	43	2704	385	S2	4053629	                        OTU-57883
+  0.36	18	18	675	87	S3	4066875	                          MGV-GENOME-0376188
+  0.04	2	2	40	10	S3	4084461	                          MGV-GENOME-0361086
+  2.00	99	0	3192	507	S	2560422	                    Enterococcus virus EFDG1
+  2.00	99	99	3192	507	S1	1597976	                      Enterococcus phage EFDG1
+  0.06	3	0	470	66	G	2560160	                  Kochikohdavirus
+  0.06	3	0	228	30	S	2560418	                    Enterococcus virus ECP3
+  0.06	3	3	228	30	S1	1498168	                      Enterococcus phage ECP3

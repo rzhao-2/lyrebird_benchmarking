@@ -1,0 +1,5 @@
+sample	coverage	taxonomy
+marine8.1	0.55	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_40_of_Caudoviricetes
+marine8.1	0.69	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_40_of_Caudoviricetes; f__novel_family_8_of_novel_order_40_of_Caudoviricetes
+marine8.1	5.89	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_40_of_Caudoviricetes; f__novel_family_8_of_novel_order_40_of_Caudoviricetes; g__novel_genus_1_of_novel_subfamily_0_of_novel_family_8_of_novel_order_40_of_Caudoviricetes||Orlajensenviridae; s__Adaiavirus_adaia
+marine8.1	7.28	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_23_of_Caudoviricetes; f__Kyanoviridae; g__novel_genus_0_of_novel_subfamily_0_of_Kyanoviridae; s__Huanghaivirus_snothree

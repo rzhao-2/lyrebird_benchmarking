@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+ON366410.1	8.62	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes; f__novel_family_42_of_novel_order_79_of_Caudoviricetes; g__Pebcunavirus|Carmenvirus

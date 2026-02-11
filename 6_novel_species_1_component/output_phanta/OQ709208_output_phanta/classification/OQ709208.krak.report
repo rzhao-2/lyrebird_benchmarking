@@ -1,0 +1,16 @@
+ 65.25	1478	1478	0	0	U	0	unclassified
+ 34.75	787	13	16529	2251	R	1	root
+ 34.17	774	0	16293	2208	D	10239	  Viruses
+ 34.17	774	0	16293	2208	D1	2731341	    Duplodnaviria
+ 34.17	774	0	16293	2208	K	2731360	      Heunggongvirae
+ 34.17	774	0	16293	2208	P	2731618	        Uroviricota
+ 34.17	774	0	16293	2208	C	2731619	          Caudoviricetes
+ 34.17	774	0	16293	2208	O	28883	            Caudovirales
+ 34.17	774	1	16293	2208	F	10699	              Siphoviridae
+ 34.13	773	695	16263	2200	F1	196894	                unclassified Siphoviridae
+  1.10	25	25	513	58	S	2652882	                  Gordonia phage NadineRae
+  1.10	25	25	746	138	S	2315530	                  Gordonia phage Emianna
+  0.40	9	9	272	34	S	2301559	                  Gordonia phage Skysand
+  0.35	8	8	281	39	S	2301602	                  Gordonia phage Foxboro
+  0.26	6	6	1464	191	S	1647475	                  Gordonia phage GTE8
+  0.22	5	5	108	13	S	2315610	                  Gordonia phage Turuncu

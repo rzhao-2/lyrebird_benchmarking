@@ -1,0 +1,12 @@
+ 97.95	1244	1244	0	0	U	0	unclassified
+  2.05	26	0	864	131	R	1	root
+  2.05	26	0	644	93	D	10239	  Viruses
+  2.05	26	0	644	93	D1	2731341	    Duplodnaviria
+  2.05	26	0	644	93	K	2731360	      Heunggongvirae
+  2.05	26	0	644	93	P	2731618	        Uroviricota
+  2.05	26	0	644	93	C	2731619	          Caudoviricetes
+  2.05	26	0	644	93	O	28883	            Caudovirales
+  2.05	26	10	644	93	F	10699	              Siphoviridae
+  1.26	16	8	333	53	G	2733203	                Raleighvirus
+  0.63	8	0	176	29	S	2734267	                  Streptomyces virus Raleigh
+  0.63	8	8	176	29	S1	1920312	                    Streptomyces phage Raleigh

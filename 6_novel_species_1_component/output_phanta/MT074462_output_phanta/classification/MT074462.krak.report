@@ -1,0 +1,38 @@
+100.00	1329	0	75987	10947	R	1	root
+100.00	1329	0	75928	10934	D	10239	  Viruses
+100.00	1329	0	75928	10934	D1	2731341	    Duplodnaviria
+100.00	1329	0	75928	10934	K	2731360	      Heunggongvirae
+100.00	1329	0	75928	10934	P	2731618	        Uroviricota
+100.00	1329	0	75928	10934	C	2731619	          Caudoviricetes
+100.00	1329	0	75928	10934	O	28883	            Caudovirales
+100.00	1329	11	75912	10930	F	10699	              Siphoviridae
+ 97.74	1299	2	69377	9931	F1	1910976	                Guernseyvirinae
+ 97.59	1297	1042	69191	9910	G	1910991	                  Jerseyvirus
+  5.12	68	19	1630	224	G1	2025810	                    unclassified Jerseyvirus
+  2.71	36	36	735	86	S	1868170	                      Salmonella phage MA12
+  0.60	8	8	145	19	S	1465613	                      Salmonella phage vB_SenS-Ent3
+  0.38	5	5	277	47	S	1465618	                      Salmonella phage vB_SenS-Ent2
+  5.04	67	4	1687	233	S	2005700	                    Salmonella virus SETP3
+  2.93	39	39	988	134	S1	424944	                      Salmonella phage SETP3
+  1.81	24	24	644	83	S1	424947	                      Salmonella phage SETP7
+  3.16	42	0	1389	212	S	2005691	                    Salmonella virus AG11
+  3.16	42	42	1389	212	S1	1211279	                      Salmonella phage vB_SenS_AG11
+  2.48	33	0	669	101	S	2005702	                    Salmonella virus wksl3
+  2.48	33	33	669	101	S1	1204541	                      Salmonella phage wksl3
+  1.05	14	0	397	52	S	2005696	                    Salmonella virus Jersey
+  1.05	14	14	397	52	S1	1340534	                      Salmonella phage Jersey
+  0.60	8	0	450	59	S	1981032	                    Salmonella virus f18SE
+  0.60	8	8	450	59	S1	1611545	                      Salmonella phage f18SE
+  0.45	6	0	196	26	S	2005695	                    Salmonella virus Ent1
+  0.45	6	6	196	26	S1	1163482	                      Salmonella phage Ent1
+  0.38	5	0	410	58	S	2005693	                    Salmonella virus SP101
+  0.38	5	5	410	58	S1	1173752	                      Salmonella phage FSL SP-101
+  0.38	5	0	111	17	S	2005699	                    Salmonella virus SE2
+  0.38	5	5	111	17	S1	1115478	                      Salmonella phage SE2
+  0.30	4	0	137	22	S	2005698	                    Salmonella virus LSPA1
+  0.30	4	4	137	22	S1	1540823	                      Salmonella phage LSPA1
+  0.23	3	0	219	31	S	2005701	                    Salmonella virus SS3e
+  0.23	3	3	219	31	S1	293644	                      Salmonella phage SS3e
+  1.43	19	16	943	162	G	4000295	                mgv_g_4000295
+  0.23	3	0	60	13	S	4036992	                  OTU-18480
+  0.23	3	3	60	13	S1	4071648	                    MGV-GENOME-0293638

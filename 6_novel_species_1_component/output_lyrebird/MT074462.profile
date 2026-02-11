@@ -1,0 +1,4 @@
+sample	coverage	taxonomy
+MT074462.1	0.23	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes
+MT074462.1	8.22	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Salmonella_phage_5sent1
+MT074462.1	1.88	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Jerseyvirus_L13

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_8.1	6.83	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_178_of_novel_order_237_of_Caudoviricetes; g__Obolenskvirus; s__Obolenskvirus_AP22

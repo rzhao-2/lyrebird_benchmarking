@@ -1,0 +1,24 @@
+ 83.22	1061	1061	0	0	U	0	unclassified
+ 16.78	214	0	7147	1055	R	1	root
+ 16.78	214	0	7006	1026	D	10239	  Viruses
+ 16.78	214	0	7003	1025	D1	2731341	    Duplodnaviria
+ 16.78	214	0	7003	1025	K	2731360	      Heunggongvirae
+ 16.78	214	0	7003	1025	P	2731618	        Uroviricota
+ 16.78	214	0	7003	1025	C	2731619	          Caudoviricetes
+ 16.78	214	0	7003	1025	O	28883	            Caudovirales
+ 16.78	214	98	7003	1025	F	10699	              Siphoviridae
+  3.69	47	0	1097	159	G	1623282	                Chenonavirus
+  3.69	47	0	1072	154	S	2169812	                  Mycobacterium virus Sbash
+  3.69	47	47	1072	154	S1	1567475	                    Mycobacterium phage Sbash
+  3.37	43	0	1129	158	G	2843459	                Sparkyvirus
+  3.37	43	0	1129	158	S	2845655	                  Mycobacterium virus Sparky
+  3.37	43	43	1129	158	S1	1527493	                    Mycobacterium phage Sparky
+  0.71	9	0	127	15	F1	2169597	                Chebruvirinae
+  0.71	9	9	127	15	G	2169611	                  Brujitavirus
+  0.63	8	0	345	123	F1	196894	                unclassified Siphoviridae
+  0.63	8	8	334	121	S	1089121	                  Mycobacterium phage Dori
+  0.47	6	0	204	29	F1	1982878	                Pclasvirinae
+  0.47	6	0	203	28	F2	2700041	                  unclassified Pclasvirinae
+  0.47	6	6	203	28	S	2593351	                    Mycobacterium phage Purky
+  0.24	3	0	79	11	G	1623288	                Liefievirus
+  0.24	3	3	67	9	S	1074304	                  Mycobacterium virus Liefie

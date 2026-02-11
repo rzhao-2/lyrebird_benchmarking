@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_37.1	0.88	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes; f__novel_family_9_of_novel_order_79_of_Caudoviricetes; g__Peeveelvirus; s__IMGVR_UViG_2603880004_000001
+2_component_37.1	7.89	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes; f__novel_family_9_of_novel_order_79_of_Caudoviricetes; g__Peeveelvirus; s__Peeveelvirus_PV83

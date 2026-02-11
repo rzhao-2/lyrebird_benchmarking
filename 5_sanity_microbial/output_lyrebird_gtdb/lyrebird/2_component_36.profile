@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_36.1	9.53	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_23_of_Caudoviricetes; f__Straboviridae; g__novel_genus_3_of_Tevenvirinae|Twarogvirinae; s__Cronobacter_phage_LPCS28

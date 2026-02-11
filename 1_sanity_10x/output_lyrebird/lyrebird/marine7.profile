@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+marine7.1	5.12	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_40_of_Caudoviricetes; f__novel_family_8_of_novel_order_40_of_Caudoviricetes; g__novel_genus_2_of_novel_subfamily_0_of_novel_family_8_of_novel_order_40_of_Caudoviricetes||Orlajensenviridae; s__Atraxavirus_atraxa
+marine7.1	8.46	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_23_of_Caudoviricetes; f__Kyanoviridae; g__novel_genus_0_of_novel_subfamily_0_of_Kyanoviridae; s__Huanghaivirus_snothree

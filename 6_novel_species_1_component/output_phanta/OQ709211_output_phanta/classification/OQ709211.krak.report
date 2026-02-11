@@ -1,0 +1,10 @@
+ 99.60	1504	1504	0	0	U	0	unclassified
+  0.40	6	0	432	68	R	1	root
+  0.40	6	0	332	49	D	10239	  Viruses
+  0.40	6	0	320	47	D1	2731341	    Duplodnaviria
+  0.40	6	0	320	47	K	2731360	      Heunggongvirae
+  0.40	6	0	320	47	P	2731618	        Uroviricota
+  0.40	6	0	320	47	C	2731619	          Caudoviricetes
+  0.40	6	0	320	47	O	28883	            Caudovirales
+  0.40	6	0	292	43	F	10699	              Siphoviridae
+  0.40	6	6	251	36	G	2560127	                Emalynvirus

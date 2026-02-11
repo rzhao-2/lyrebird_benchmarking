@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_76.1	0.54	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_75_of_novel_order_237_of_Caudoviricetes; g__Detrevirus
+2_component_76.1	9.85	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_75_of_novel_order_237_of_Caudoviricetes; g__Detrevirus; s__Pseudomonas_phage_PAJU2

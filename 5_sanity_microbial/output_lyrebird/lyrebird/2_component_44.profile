@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_44.1	8.95	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_178_of_novel_order_237_of_Caudoviricetes; g__Gofduovirus; s__Gofduovirus_GF2

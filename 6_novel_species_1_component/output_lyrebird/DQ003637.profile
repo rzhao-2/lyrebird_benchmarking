@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+DQ003637.1	8.35	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes; f__novel_family_40_of_novel_order_79_of_Caudoviricetes; g__novel_genus_0_of_novel_subfamily_0_of_novel_family_40_of_novel_order_79_of_Caudoviricetes; s__Listeria_phage_A500

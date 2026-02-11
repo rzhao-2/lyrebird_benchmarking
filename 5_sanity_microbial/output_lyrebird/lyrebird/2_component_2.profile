@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_2.1	7.78	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_228_of_Caudoviricetes; f__novel_family_0_of_novel_order_228_of_Caudoviricetes; g__Poindextervirus|Shapirovirus; s__Shapirovirus_swift

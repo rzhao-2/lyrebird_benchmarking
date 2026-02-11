@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_62.1	7.86	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_178_of_novel_order_237_of_Caudoviricetes; g__Beograduvirus; s__Beograduvirus_Xaf18

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_89.1	10.29	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_123_of_Caudoviricetes; f__novel_family_57_of_novel_order_123_of_Caudoviricetes; g__novel_genus_4_of_novel_subfamily_1_of_novel_family_57_of_novel_order_123_of_Caudoviricetes; s__Bacillus_phage_vB_BcoS-136

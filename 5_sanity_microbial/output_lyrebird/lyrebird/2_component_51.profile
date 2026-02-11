@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_51.1	7.86	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_51_of_Caudoviricetes; f__Vilmaviridae; g__novel_genus_1_of_novel_subfamily_1_of_Vilmaviridae; s__Gordonia_phage_Trax

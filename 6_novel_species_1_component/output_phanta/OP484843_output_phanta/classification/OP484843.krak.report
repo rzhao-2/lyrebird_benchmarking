@@ -1,0 +1,33 @@
+ 11.21	120	120	0	0	U	0	unclassified
+ 88.79	950	24	44452	6440	R	1	root
+ 82.15	879	1	31619	4398	R1	131567	  cellular organisms
+ 82.06	878	0	31604	4391	D	2	    Bacteria
+ 82.06	878	0	31544	4391	P	1224	      Proteobacteria
+ 82.06	878	0	31544	4391	C	1236	        Gammaproteobacteria
+ 82.06	878	0	31534	4388	O	135624	          Aeromonadales
+ 82.06	878	0	31534	4388	F	84642	            Aeromonadaceae
+ 82.06	878	217	31534	4388	G	642	              Aeromonas
+ 40.00	428	78	10365	1416	S	196024	                Aeromonas dhakensis
+ 24.67	264	264	6742	921	S1	3028695	                  HumGut_28695
+  2.62	28	28	821	116	S1	3029084	                  HumGut_29084
+  2.52	27	27	481	76	S1	3029054	                  HumGut_29054
+  2.34	25	25	762	90	S1	3027255	                  HumGut_27255
+  0.56	6	6	339	54	S1	3029167	                  HumGut_29167
+ 19.35	207	17	5227	720	S	948519	                Aeromonas rivipollensis
+ 16.92	181	181	4552	625	S1	3026929	                  HumGut_26929
+  0.84	9	9	403	62	S1	3028694	                  HumGut_28694
+  2.24	24	0	727	103	S	648	                Aeromonas caviae
+  2.24	24	24	727	103	S1	3028281	                  HumGut_28281
+  0.19	2	0	953	147	S	644	                Aeromonas hydrophila
+  0.19	2	0	953	147	S1	196023	                  Aeromonas hydrophila subsp. hydrophila
+  0.19	2	2	953	147	S2	380703	                    Aeromonas hydrophila subsp. hydrophila ATCC 7966
+  4.39	47	0	1554	219	D	10239	  Viruses
+  4.39	47	0	1554	219	D1	2731341	    Duplodnaviria
+  4.39	47	0	1554	219	K	2731360	      Heunggongvirae
+  4.39	47	0	1554	219	P	2731618	        Uroviricota
+  4.39	47	0	1554	219	C	2731619	          Caudoviricetes
+  4.39	47	0	1554	219	O	28883	            Caudovirales
+  4.39	47	0	1554	219	F	10662	              Myoviridae
+  4.39	47	0	1554	219	F1	857479	                Peduovirinae
+  4.39	47	0	1542	218	G	2732974	                  Bielevirus
+  4.39	47	47	1542	218	S	393598	                    Aeromonas virus phiO18P

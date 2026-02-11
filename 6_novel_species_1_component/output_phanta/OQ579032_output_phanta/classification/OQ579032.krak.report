@@ -1,0 +1,47 @@
+  5.76	78	78	0	0	U	0	unclassified
+ 94.24	1277	0	68914	9899	R	1	root
+ 94.24	1277	0	68421	9823	D	10239	  Viruses
+ 94.24	1277	0	68416	9814	D1	2731341	    Duplodnaviria
+ 94.24	1277	0	68416	9814	K	2731360	      Heunggongvirae
+ 94.24	1277	0	68416	9814	P	2731618	        Uroviricota
+ 94.24	1277	0	68416	9814	C	2731619	          Caudoviricetes
+ 94.24	1277	586	68416	9814	O	28883	            Caudovirales
+ 45.24	613	0	11747	1701	F	2731643	              Autographiviridae
+ 45.24	613	28	11747	1701	F1	2731653	                Studiervirinae
+ 43.17	585	404	11450	1650	G	1985720	                  Przondovirus
+  4.50	61	39	2215	347	S	1985726	                    Klebsiella virus KP32
+  1.62	22	20	754	115	S1	4031479	                      OTU-74047
+  0.15	2	2	77	14	S2	4065224	                        MGV-GENOME-0272856
+  2.36	32	0	835	116	S	2733663	                    Klebsiella virus 2044-307w
+  2.36	32	19	835	116	S1	2024247	                      Klebsiella phage 2044-307w
+  0.96	13	0	327	46	S2	4030956	                        OTU-72849
+  0.96	13	13	229	30	S3	4168602	                          MGV-GENOME-0268525
+  1.85	25	0	410	40	S	1985727	                    Klebsiella virus KpV289
+  1.85	25	25	410	40	S1	1671396	                      Klebsiella phage vB_KpnP_KpV289
+  1.25	17	0	400	41	S	1985722	                    Escherichia virus K30
+  1.25	17	17	400	41	S1	1041524	                      Escherichia phage K30
+  1.11	15	0	324	42	S	2733680	                    Klebsiella virus KpV766
+  1.11	15	15	324	42	S1	1897431	                      Klebsiella phage vB_KpnP_KpV766
+  0.74	10	0	273	40	S	1985723	                    Klebsiella virus K5
+  0.74	10	10	273	40	S1	1647374	                      Klebsiella phage K5
+  0.74	10	0	300	53	S	2733683	                    Klebsiella virus PRA33
+  0.74	10	10	300	53	S1	1907781	                      Klebsiella phage vB_KpnP_PRA33
+  0.44	6	0	270	43	S	2733669	                    Klebsiella virus K5-2
+  0.44	6	6	270	43	S1	1932361	                      Klebsiella phage K5-2
+  0.37	5	0	177	29	S	2733666	                    Klebsiella virus IL33
+  0.37	5	5	177	29	S1	1907783	                      Klebsiella phage vB_KpnP_IL33
+  5.76	78	0	3104	481	F	10744	              Podoviridae
+  5.76	78	48	3104	481	G	4000256	                mgv_g_4000256
+  0.52	7	0	332	48	S	4031024	                  OTU-30129
+  0.52	7	7	280	42	S1	4067153	                    MGV-GENOME-0264844
+  0.52	7	0	125	21	S	4031016	                  OTU-67156
+  0.52	7	7	125	21	S1	4064698	                    MGV-GENOME-0271102
+  0.37	5	5	98	19	S	4031394	                  OTU-16291
+  0.30	4	0	126	24	S	4032447	                  OTU-27328
+  0.30	4	4	89	15	S1	4058229	                    MGV-GENOME-0276411
+  0.22	3	0	343	51	S	4032046	                  OTU-08580
+  0.22	3	3	343	51	S1	4065480	                    MGV-GENOME-0275033
+  0.22	3	0	227	33	S	4031851	                  OTU-04511
+  0.22	3	3	227	33	S1	4065385	                    MGV-GENOME-0274303
+  0.07	1	0	37	18	S	4032493	                  OTU-65993
+  0.07	1	1	37	18	S1	4058251	                    MGV-GENOME-0276608

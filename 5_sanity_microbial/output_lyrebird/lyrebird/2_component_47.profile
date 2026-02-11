@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_47.1	8.81	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_213_of_Caudoviricetes; f__novel_family_21_of_novel_order_213_of_Caudoviricetes; g__Toutatisvirus; s__Toutatisvirus_toutatis

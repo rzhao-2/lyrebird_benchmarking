@@ -1,0 +1,14 @@
+  3.50	55	55	0	0	U	0	unclassified
+ 96.50	1515	0	63861	8836	R	1	root
+ 96.50	1515	0	63758	8831	D	10239	  Viruses
+ 96.50	1515	0	63758	8831	D1	2731341	    Duplodnaviria
+ 96.50	1515	0	63758	8831	K	2731360	      Heunggongvirae
+ 96.50	1515	0	63758	8831	P	2731618	        Uroviricota
+ 96.50	1515	0	63758	8831	C	2731619	          Caudoviricetes
+ 96.50	1515	1	63758	8831	O	28883	            Caudovirales
+ 95.80	1504	39	62825	8699	F	10662	              Myoviridae
+ 93.12	1462	1052	55437	7569	G	2560154	                Jedunavirus
+  0.19	3	0	453	72	G	2560201	                Peatvirus
+  0.64	10	0	210	20	F	2731643	              Autographiviridae
+  0.64	10	0	210	20	F1	2731652	                Slopekvirinae
+  0.64	10	1	210	20	G	1920774	                  Drulisvirus

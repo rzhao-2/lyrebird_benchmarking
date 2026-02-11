@@ -1,0 +1,44 @@
+  3.31	54	54	0	0	U	0	unclassified
+ 96.69	1576	0	83965	11732	R	1	root
+ 96.69	1576	0	83782	11691	D	10239	  Viruses
+ 96.69	1576	0	83782	11691	D1	2731341	    Duplodnaviria
+ 96.69	1576	0	83782	11691	K	2731360	      Heunggongvirae
+ 96.69	1576	0	83782	11691	P	2731618	        Uroviricota
+ 96.69	1576	0	83782	11691	C	2731619	          Caudoviricetes
+ 96.69	1576	70	83782	11691	O	28883	            Caudovirales
+ 91.35	1489	2	60995	8716	F	2731691	              Drexlerviridae
+ 91.23	1487	0	60340	8590	F1	1910999	                Tunavirinae
+ 91.23	1487	987	60259	8584	G	187217	                  Tunavirus
+  9.57	156	156	3422	484	S	1002724	                    Shigella virus Shfl1
+  4.48	73	0	1717	248	S	1921005	                    Shigella virus PSf2
+  4.48	73	73	1717	248	S1	1572702	                      Shigella phage pSf-2
+  2.52	41	0	903	141	S	1921008	                    Escherichia virus T1
+  2.52	41	41	903	141	S1	2492962	                      Escherichia phage T1
+  2.52	41	0	994	121	S	2734026	                    Shigella virus Sfin1
+  2.52	41	41	994	121	S1	2024314	                      Shigella phage Sfin-1
+  2.21	36	0	744	104	S	2734023	                    Escherichia virus SH2
+  2.21	36	36	744	104	S1	1983554	                      Escherichia phage vB_EcoS_SH2
+  1.96	32	0	777	98	G1	355245	                    unclassified Tunavirus
+  1.96	32	32	777	98	S	2608316	                      Shigella virus Sfin-3
+  1.78	29	0	672	107	S	2560763	                    Shigella virus ISF002
+  1.78	29	29	672	107	S1	2006922	                      Shigella phage vB_SsoS-ISF002
+  1.53	25	0	569	79	S	2844185	                    Escherichia virus DELF2
+  1.53	25	25	569	79	S1	2697005	                      Escherichia phage vB_EcoS-DELF2
+  1.04	17	0	670	84	S	2734021	                    Escherichia virus BIFF
+  1.04	17	17	670	84	S1	2175169	                      Escherichia phage Eco_BIFF
+  0.98	16	0	570	94	S	2734027	                    Shigella virus SH6
+  0.98	16	16	570	94	S1	1913048	                      Shigella phage SH6
+  0.74	12	0	382	49	S	2734022	                    Escherichia virus IME18
+  0.74	12	12	382	49	S1	2163886	                      Enterobacteria phage vB_EcoS_IME18
+  0.55	9	0	505	77	S	1921004	                    Escherichia virus ADB2
+  0.55	9	9	505	77	S1	1216926	                      Escherichia phage ADB-2
+  0.43	7	0	317	67	S	2049887	                    Escherichia virus JMPW1
+  0.43	7	7	317	67	S1	1772219	                      Escherichia phage JMPW1
+  0.31	5	0	71	11	S	2049888	                    Escherichia virus JMPW2
+  0.31	5	5	71	11	S1	1772218	                      Escherichia phage JMPW2
+  0.06	1	0	189	30	S	2734024	                    Shigella virus 008
+  0.06	1	1	189	30	S1	2507846	                      Shigella phage vB_SsoS_008
+  1.04	17	0	1016	178	F	10699	              Siphoviridae
+  1.04	17	0	1014	176	G	4000233	                mgv_g_4000233
+  1.04	17	0	769	129	S	4018210	                  OTU-57912
+  1.04	17	17	769	129	S1	4177278	                    MGV-GENOME-0209682

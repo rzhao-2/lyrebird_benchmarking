@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+marine5.1	9.45	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae; g__novel_genus_0_of_novel_subfamily_7_of_Peduoviridae; s__Plazymidvirus_ZM41
+marine5.1	8.53	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae; g__novel_genus_5_of_novel_subfamily_21_of_Peduoviridae; s__Sanguivirus_H5569V

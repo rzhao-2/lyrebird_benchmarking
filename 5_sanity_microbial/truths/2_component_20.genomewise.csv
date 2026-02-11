@@ -1,0 +1,3 @@
+accession	coverage	fasta	taxonomy	genome_size
+NC_031077.1	10	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/ictv-imgvr/genomes/NC_031077.1.fna	d__Viruses;p__Uroviricota;c__Caudoviricetes;o__novel_order_247_of_Caudoviricetes;f__novel_family_38_of_novel_order_247_of_Caudoviricetes;g__Uetakevirus;s__Enterobacter_phage_Tyrion	41760
+binchicken_emerge_co62.717	10	/mnt/hpccs01/work/microbiome/abisko/groopm/60_Emerge_MAGs_v4/Field/Aroney_v3/genomes/binchicken_emerge_co62.717.fna	d__Bacteria;p__Omnitrophota;c__Koll11;o__Zapsychrales;f__Fredricksoniimonadaceae;g__;s__	2327877

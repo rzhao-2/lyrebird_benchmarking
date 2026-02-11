@@ -1,0 +1,12 @@
+  4.16	62	62	0	0	U	0	unclassified
+ 95.84	1428	0	65321	9144	R	1	root
+ 95.84	1428	0	65212	9130	D	10239	  Viruses
+ 95.84	1428	0	65212	9130	D1	2731341	    Duplodnaviria
+ 95.84	1428	0	65212	9130	K	2731360	      Heunggongvirae
+ 95.84	1428	0	65212	9130	P	2731618	        Uroviricota
+ 95.84	1428	0	65212	9130	C	2731619	          Caudoviricetes
+ 95.84	1428	0	65212	9130	O	28883	            Caudovirales
+ 95.84	1428	252	65204	9127	F	10699	              Siphoviridae
+ 68.52	1021	646	22222	3088	G	1623289	                Dhillonvirus
+  9.26	138	66	3562	482	G1	2219214	                  unclassified Dhillonvirus
+ 10.40	155	67	5387	788	G	4001186	                mgv_g_4001186

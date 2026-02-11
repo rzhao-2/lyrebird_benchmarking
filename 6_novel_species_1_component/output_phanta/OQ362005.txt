@@ -1,0 +1,1 @@
+OQ362005	local_reads/OQ362005.1.fq.gz	local_reads/OQ362005.2.fq.gz

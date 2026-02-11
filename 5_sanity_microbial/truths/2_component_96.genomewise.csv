@@ -1,0 +1,3 @@
+accession	coverage	fasta	taxonomy	genome_size
+NC_016659.1	10	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/ictv-imgvr/genomes/NC_016659.1.fna	d__Viruses;p__Uroviricota;c__Caudoviricetes;o__novel_order_9_of_Caudoviricetes;f__Autographiviridae;g__Tangaroavirus;s__Tangaroavirus_NATL2A133	47536
+binchicken_emerge_co149.397	10	/mnt/hpccs01/work/microbiome/abisko/groopm/60_Emerge_MAGs_v4/Field/Aroney_v3/genomes/binchicken_emerge_co149.397.fna	d__Bacteria;p__Acidobacteriota;c__Terriglobia;o__Terriglobales;f__JAIQGF01;g__;s__	4298445

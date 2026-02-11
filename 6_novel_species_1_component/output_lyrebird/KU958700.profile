@@ -1,0 +1,4 @@
+sample	coverage	taxonomy
+KU958700.1	0.09	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+KU958700.1	0.82	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_55_of_Caudoviricetes; f__novel_family_33_of_novel_order_55_of_Caudoviricetes
+KU958700.1	6.27	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_55_of_Caudoviricetes; f__novel_family_33_of_novel_order_55_of_Caudoviricetes; g__novel_genus_4_of_novel_subfamily_0_of_novel_family_33_of_novel_order_55_of_Caudoviricetes||novel_family_30_of_novel_order_55_of_Caudoviricetes; s__Streptomyces_phage_Chymera

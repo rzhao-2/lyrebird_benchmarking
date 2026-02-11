@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_48.1	0.42	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_86_of_Caudoviricetes; f__novel_family_52_of_novel_order_86_of_Caudoviricetes; g__Abouovirus|Jimmervirus
+2_component_48.1	7.93	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_86_of_Caudoviricetes; f__novel_family_52_of_novel_order_86_of_Caudoviricetes; g__Abouovirus|Jimmervirus; s__Jimmervirus_jimmer

@@ -1,0 +1,1 @@
+MH791397	local_reads/MH791397.1.fq.gz	local_reads/MH791397.2.fq.gz

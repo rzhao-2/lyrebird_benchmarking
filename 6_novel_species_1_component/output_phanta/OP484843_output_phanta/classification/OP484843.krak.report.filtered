@@ -1,0 +1,18 @@
+ 11.21	120	120	0	0	U	0	unclassified
+ 88.79	950	24	44452	6440	R	1	root
+ 82.15	879	1	31619	4398	R1	131567	  cellular organisms
+ 82.06	878	0	31604	4391	D	2	    Bacteria
+ 82.06	878	0	31544	4391	P	1224	      Proteobacteria
+ 82.06	878	0	31544	4391	C	1236	        Gammaproteobacteria
+ 82.06	878	0	31534	4388	O	135624	          Aeromonadales
+ 82.06	878	0	31534	4388	F	84642	            Aeromonadaceae
+ 82.06	878	217	31534	4388	G	642	              Aeromonas
+  4.39	47	0	1554	219	D	10239	  Viruses
+  4.39	47	0	1554	219	D1	2731341	    Duplodnaviria
+  4.39	47	0	1554	219	K	2731360	      Heunggongvirae
+  4.39	47	0	1554	219	P	2731618	        Uroviricota
+  4.39	47	0	1554	219	C	2731619	          Caudoviricetes
+  4.39	47	0	1554	219	O	28883	            Caudovirales
+  4.39	47	0	1554	219	F	10662	              Myoviridae
+  4.39	47	0	1554	219	F1	857479	                Peduovirinae
+  4.39	47	0	1542	218	G	2732974	                  Bielevirus

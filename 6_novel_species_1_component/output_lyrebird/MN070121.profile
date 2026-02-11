@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MN070121.1	8.03	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Cornellvirus; s__Salmonella_phage_Shemara

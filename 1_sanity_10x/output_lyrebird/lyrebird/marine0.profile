@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+marine0.1	9.71	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae; g__novel_genus_92_of_novel_subfamily_0_of_Peduoviridae||novel_family_191_of_novel_order_237_of_Caudoviricetes||novel_family_24_of_novel_order_209_of_Caudoviricetes; s__Finvirus_FIN13
+marine0.1	6.44	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_150_of_Caudoviricetes; f__novel_family_2_of_novel_order_150_of_Caudoviricetes; g__Elemovirus; s__Elemovirus_elemoC

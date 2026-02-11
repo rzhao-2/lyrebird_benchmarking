@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Pseudomonas phage PaMx42	1175662	S	1315	23	1338	1.0	42953.0	1.0	1.0	9.34509813051475	31150.3271	1000000.0	23281260.913091052	7188.537023472884	0.5899772209567198

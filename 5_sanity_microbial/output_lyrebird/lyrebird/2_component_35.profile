@@ -1,0 +1,4 @@
+sample	coverage	taxonomy
+2_component_35.1	0.42	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_86_of_Caudoviricetes
+2_component_35.1	0.57	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_86_of_Caudoviricetes; f__novel_family_5_of_novel_order_86_of_Caudoviricetes; g__Cequinquevirus
+2_component_35.1	6.67	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_86_of_Caudoviricetes; f__novel_family_5_of_novel_order_86_of_Caudoviricetes; g__Cequinquevirus; s__Cequinquevirus_LLKu

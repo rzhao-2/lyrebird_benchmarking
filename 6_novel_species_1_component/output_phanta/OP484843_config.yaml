@@ -1,0 +1,42 @@
+pipeline_directory: /mnt/hpccs01/home/n10927662/phanta
+
+# Sample file specifies sample names and names of files containing sample reads
+# Format: Tab-delimited, three columns
+# sample_name  read1_file  [read2_file]
+# if paired end, all samples must be paired end
+# if single end, all samples must be single end
+# See example (samp_file.txt) in the testing folder
+sample_file: output_phanta/OP484843.txt
+
+# In which directory should results be outputted?
+outdir: output_phanta/OP484843_output_phanta
+
+database: /mnt/weka/scratch/microbiome/n10927662/phanta_dbs/unmasked_db_v1
+
+# Specifications for step one - classification of metagenomic reads
+confidence_threshold: 0.1 # increase to reduce false positives - range from 0-1
+gzipped: True # True or False - are the read files gzipped?
+class_mem_mb: 32768 # memory in MB - minimum is the size of the Kraken2 database - must be at least 32 GB for the default database
+class_threads: 1
+single_end_krak: False # change if you would like to use the integrated prophage detection postprocessing script
+
+# Specifications for step two - filtering false positive species
+# essentially - what fraction of a viral genome should be covered to consider it a true positive?
+cov_thresh_viral: 0.10
+# how many unique minimizers should be covered in a viral genome ""?
+minimizer_thresh_viral: 0
+# same for bacteria
+cov_thresh_bacterial: 0.01
+minimizer_thresh_bacterial: 0
+# archaea, eukaryotes
+cov_thresh_arc: 0.01
+minimizer_thresh_arc: 0
+cov_thresh_euk: 0
+minimizer_thresh_euk: 0
+
+# Speciications for step three - per-species abundance estimation
+read_length: 150 # if you change this, make sure you have an appropriate Bracken database built for this read length
+filter_thresh: 10 # do not assign reads to species X if < this number of reads were classified to it
+
+# Delete intermediate files? Examples in testing/classification/intermediate
+delete_intermediate: True # True or False

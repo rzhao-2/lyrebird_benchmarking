@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Salmonella phage BPS11Q3	1857099	S	301	872	1173	1.0	43751.0	1.0	1.0	8.043244725834837	26810.8158	1000000.0	22856620.420104682	6702.703938195698	0.3130941429009506

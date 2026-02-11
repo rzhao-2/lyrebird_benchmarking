@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MZ398021.1	7.77	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_193_of_novel_order_237_of_Caudoviricetes; g__Jedunavirus; s__Klebsiella_phage_BUCT_47333

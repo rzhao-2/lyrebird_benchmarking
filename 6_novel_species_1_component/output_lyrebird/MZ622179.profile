@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MZ622179.1	8.24	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_44_of_Caudoviricetes; f__novel_family_0_of_novel_order_44_of_Caudoviricetes; g__Metamorphoovirus|Quhwahvirus; s__Quhwahvirus_paschalis

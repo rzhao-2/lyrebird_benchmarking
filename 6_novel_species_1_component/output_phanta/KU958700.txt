@@ -1,0 +1,1 @@
+KU958700	local_reads/KU958700.1.fq.gz	local_reads/KU958700.2.fq.gz

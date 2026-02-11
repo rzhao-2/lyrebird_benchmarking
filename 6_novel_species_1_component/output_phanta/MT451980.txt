@@ -1,0 +1,1 @@
+MT451980	local_reads/MT451980.1.fq.gz	local_reads/MT451980.2.fq.gz

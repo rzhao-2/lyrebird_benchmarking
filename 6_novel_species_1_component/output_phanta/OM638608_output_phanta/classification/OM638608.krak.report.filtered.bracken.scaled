@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Burkholderia virus KL3	2734075	S	737	0	737	1.0	39835.0	1.0	1.0	5.550395380946404	18501.3179	1000000.0	25103552.152629595	7929.136258494863	0.1814649470899471

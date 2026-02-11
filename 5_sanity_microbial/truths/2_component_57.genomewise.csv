@@ -1,0 +1,3 @@
+accession	coverage	fasta	taxonomy	genome_size
+NC_028999.1	10	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/ictv-imgvr/genomes/NC_028999.1.fna	d__Viruses;p__Uroviricota;c__Caudoviricetes;o__novel_order_17_of_Caudoviricetes;f__novel_family_5_of_novel_order_17_of_Caudoviricetes;g__novel_genus_4_of_novel_subfamily_0_of_novel_family_5_of_novel_order_17_of_Caudoviricetes;s__Miltoncavirus_PhiPA3	309208
+binchicken_palsa_co153.482	10	/mnt/hpccs01/work/microbiome/abisko/groopm/60_Emerge_MAGs_v4/Field/Aroney_v3/genomes/binchicken_palsa_co153.482.fna	d__Bacteria;p__Acidobacteriota;c__Terriglobia;o__Acidoferrales;f__UBA7541;g__;s__	4392292

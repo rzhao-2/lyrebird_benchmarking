@@ -1,0 +1,13 @@
+  5.76	78	78	0	0	U	0	unclassified
+ 94.24	1277	0	68914	9899	R	1	root
+ 94.24	1277	0	68421	9823	D	10239	  Viruses
+ 94.24	1277	0	68416	9814	D1	2731341	    Duplodnaviria
+ 94.24	1277	0	68416	9814	K	2731360	      Heunggongvirae
+ 94.24	1277	0	68416	9814	P	2731618	        Uroviricota
+ 94.24	1277	0	68416	9814	C	2731619	          Caudoviricetes
+ 94.24	1277	586	68416	9814	O	28883	            Caudovirales
+ 45.24	613	0	11747	1701	F	2731643	              Autographiviridae
+ 45.24	613	28	11747	1701	F1	2731653	                Studiervirinae
+ 43.17	585	404	11450	1650	G	1985720	                  Przondovirus
+  5.76	78	0	3104	481	F	10744	              Podoviridae
+  5.76	78	48	3104	481	G	4000256	                mgv_g_4000256

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_73.1	8.31	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_88_of_Caudoviricetes; f__novel_family_2_of_novel_order_88_of_Caudoviricetes; g__Efquatrovirus; s__Efquatrovirus_SHEF4

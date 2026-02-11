@@ -1,11 +1,11 @@
 .*
 */.*
 */local_reads
-*/output_*
 */benchmarks
-*/truths
 __pycache__
 */__pycache__
 get_novel_microbes/genomad
+6_novel_species_1_component/output_metaphlan4/*.sam
+*/*/logs
 !.gitignore
 

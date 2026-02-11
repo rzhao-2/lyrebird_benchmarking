@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+MG197810.1	0.23	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_193_of_novel_order_237_of_Caudoviricetes; g__Jedunavirus
+MG197810.1	6.93	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_193_of_novel_order_237_of_Caudoviricetes; g__Jedunavirus; s__Klebsiella_phage_1611E-K2-1

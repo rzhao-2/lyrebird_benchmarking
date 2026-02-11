@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_65.1	6.99	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_87_of_Caudoviricetes; f__novel_family_19_of_novel_order_87_of_Caudoviricetes; g__Colneyvirus; s__Colneyvirus_CDKM15

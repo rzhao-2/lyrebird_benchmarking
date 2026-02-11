@@ -1,0 +1,3 @@
+accession	coverage	fasta	taxonomy	genome_size
+NC_048166.1	10	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/ictv-imgvr/genomes/NC_048166.1.fna	d__Viruses;p__Uroviricota;c__Caudoviricetes;o__novel_order_274_of_Caudoviricetes;f__novel_family_2_of_novel_order_274_of_Caudoviricetes;g__Lanavirus;s__Lanavirus_lana	88403
+binchicken_emerge_co316.180	10	/mnt/hpccs01/work/microbiome/abisko/groopm/60_Emerge_MAGs_v4/Field/Aroney_v3/genomes/binchicken_emerge_co316.180.fna	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__WCHB1-69;g__;s__	3744743

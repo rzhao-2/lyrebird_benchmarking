@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_87.1	0.48	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus
+2_component_87.1	8.47	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus; s__Shigella_phage_vB_SboD_StarDew

@@ -1,0 +1,1 @@
+ON932084	local_reads/ON932084.1.fq.gz	local_reads/ON932084.2.fq.gz

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MN234170.1	10.09	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_48_of_Caudoviricetes; f__novel_family_23_of_novel_order_48_of_Caudoviricetes; g__novel_genus_0_of_Weiservirinae; s__Mycobacterium_phage_MalagasyRose

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_52.1	8.05	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_191_of_novel_order_237_of_Caudoviricetes; g__Roufvirus; s__Klebsiella_phage_KP591P1

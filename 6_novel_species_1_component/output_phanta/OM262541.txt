@@ -1,0 +1,1 @@
+OM262541	local_reads/OM262541.1.fq.gz	local_reads/OM262541.2.fq.gz

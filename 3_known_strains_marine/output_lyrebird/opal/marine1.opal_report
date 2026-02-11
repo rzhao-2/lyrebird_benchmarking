@@ -1,0 +1,183 @@
+tool	rank	metric	sample	value
+Gold standard	kingdom	Bray-Curtis distance	SAMPLEID	0.0
+Gold standard	phylum	Bray-Curtis distance	SAMPLEID	0.0
+Gold standard	class	Bray-Curtis distance	SAMPLEID	0.0
+Gold standard	order	Bray-Curtis distance	SAMPLEID	0.0
+Gold standard	family	Bray-Curtis distance	SAMPLEID	0.0
+Gold standard	genus	Bray-Curtis distance	SAMPLEID	0.0
+Gold standard	species	Bray-Curtis distance	SAMPLEID	0.0
+Gold standard	phylum	Shannon diversity	SAMPLEID	0.0
+Gold standard	phylum	Shannon equitability	SAMPLEID	0.0
+Gold standard	class	Shannon diversity	SAMPLEID	0.0
+Gold standard	class	Shannon equitability	SAMPLEID	0.0
+Gold standard	order	Shannon diversity	SAMPLEID	3.321411056521273
+Gold standard	order	Shannon equitability	SAMPLEID	0.7516476269048895
+Gold standard	family	Shannon diversity	SAMPLEID	4.711976163808167
+Gold standard	family	Shannon equitability	SAMPLEID	0.8416614893121054
+Gold standard	genus	Shannon diversity	SAMPLEID	5.353906502410475
+Gold standard	genus	Shannon equitability	SAMPLEID	0.8815852530552116
+Gold standard	species	Shannon diversity	SAMPLEID	5.3869743463634086
+Gold standard	species	Shannon equitability	SAMPLEID	0.8817737820220839
+Gold standard	kingdom	True positives	SAMPLEID	1.0
+Gold standard	kingdom	False negatives	SAMPLEID	0.0
+Gold standard	kingdom	False positives	SAMPLEID	0.0
+Gold standard	kingdom	Completeness	SAMPLEID	1.0
+Gold standard	kingdom	Purity	SAMPLEID	1.0
+Gold standard	kingdom	F1 score	SAMPLEID	1.0
+Gold standard	kingdom	Jaccard index	SAMPLEID	1.0
+Gold standard	phylum	True positives	SAMPLEID	1.0
+Gold standard	phylum	False negatives	SAMPLEID	0.0
+Gold standard	phylum	False positives	SAMPLEID	0.0
+Gold standard	phylum	Completeness	SAMPLEID	1.0
+Gold standard	phylum	Purity	SAMPLEID	1.0
+Gold standard	phylum	F1 score	SAMPLEID	1.0
+Gold standard	phylum	Jaccard index	SAMPLEID	1.0
+Gold standard	class	True positives	SAMPLEID	1.0
+Gold standard	class	False negatives	SAMPLEID	0.0
+Gold standard	class	False positives	SAMPLEID	0.0
+Gold standard	class	Completeness	SAMPLEID	1.0
+Gold standard	class	Purity	SAMPLEID	1.0
+Gold standard	class	F1 score	SAMPLEID	1.0
+Gold standard	class	Jaccard index	SAMPLEID	1.0
+Gold standard	order	True positives	SAMPLEID	83.0
+Gold standard	order	False negatives	SAMPLEID	0.0
+Gold standard	order	False positives	SAMPLEID	0.0
+Gold standard	order	Completeness	SAMPLEID	1.0
+Gold standard	order	Purity	SAMPLEID	1.0
+Gold standard	order	F1 score	SAMPLEID	1.0
+Gold standard	order	Jaccard index	SAMPLEID	1.0
+Gold standard	family	True positives	SAMPLEID	270.0
+Gold standard	family	False negatives	SAMPLEID	0.0
+Gold standard	family	False positives	SAMPLEID	0.0
+Gold standard	family	Completeness	SAMPLEID	1.0
+Gold standard	family	Purity	SAMPLEID	1.0
+Gold standard	family	F1 score	SAMPLEID	1.0
+Gold standard	family	Jaccard index	SAMPLEID	1.0
+Gold standard	genus	True positives	SAMPLEID	434.0
+Gold standard	genus	False negatives	SAMPLEID	0.0
+Gold standard	genus	False positives	SAMPLEID	0.0
+Gold standard	genus	Completeness	SAMPLEID	1.0
+Gold standard	genus	Purity	SAMPLEID	1.0
+Gold standard	genus	F1 score	SAMPLEID	1.0
+Gold standard	genus	Jaccard index	SAMPLEID	1.0
+Gold standard	species	True positives	SAMPLEID	450.0
+Gold standard	species	False negatives	SAMPLEID	0.0
+Gold standard	species	False positives	SAMPLEID	0.0
+Gold standard	species	Completeness	SAMPLEID	1.0
+Gold standard	species	Purity	SAMPLEID	1.0
+Gold standard	species	F1 score	SAMPLEID	1.0
+Gold standard	species	Jaccard index	SAMPLEID	1.0
+Gold standard	kingdom	L1 norm error	SAMPLEID	0.0
+Gold standard	phylum	L1 norm error	SAMPLEID	0.0
+Gold standard	class	L1 norm error	SAMPLEID	0.0
+Gold standard	order	L1 norm error	SAMPLEID	0.0
+Gold standard	family	L1 norm error	SAMPLEID	0.0
+Gold standard	genus	L1 norm error	SAMPLEID	0.0
+Gold standard	species	L1 norm error	SAMPLEID	0.0
+Gold standard	na	Weighted UniFrac error	SAMPLEID	0.0
+Gold standard	na	Unweighted UniFrac error	SAMPLEID	0.0
+Gold standard	na	Weighted UniFrac (CAMI)	SAMPLEID	0.0
+Gold standard	na	Unweighted UniFrac (CAMI)	SAMPLEID	0.0
+Gold standard	phylum	Sum of abundances	SAMPLEID	1.0
+Gold standard	class	Sum of abundances	SAMPLEID	1.0
+Gold standard	order	Sum of abundances	SAMPLEID	1.0000000000000004
+Gold standard	family	Sum of abundances	SAMPLEID	1.0000000000000007
+Gold standard	genus	Sum of abundances	SAMPLEID	1.0000000000000013
+Gold standard	species	Sum of abundances	SAMPLEID	1.0000000000000013
+Gold standard	phylum	Taxon counts	SAMPLEID	1.0
+Gold standard	class	Taxon counts	SAMPLEID	1.0
+Gold standard	order	Taxon counts	SAMPLEID	83.0
+Gold standard	family	Taxon counts	SAMPLEID	270.0
+Gold standard	genus	Taxon counts	SAMPLEID	434.0
+Gold standard	species	Taxon counts	SAMPLEID	450.0
+marine1.biobox	kingdom	Bray-Curtis distance	SAMPLEID	0.0
+marine1.biobox	phylum	Bray-Curtis distance	SAMPLEID	0.0
+marine1.biobox	class	Bray-Curtis distance	SAMPLEID	0.0
+marine1.biobox	order	Bray-Curtis distance	SAMPLEID	0.1287901593486953
+marine1.biobox	family	Bray-Curtis distance	SAMPLEID	0.17851864249876412
+marine1.biobox	genus	Bray-Curtis distance	SAMPLEID	0.2103989267235734
+marine1.biobox	species	Bray-Curtis distance	SAMPLEID	0.2193694215833585
+marine1.biobox	phylum	Shannon diversity	SAMPLEID	0.0
+marine1.biobox	phylum	Shannon equitability	SAMPLEID	0.0
+marine1.biobox	class	Shannon diversity	SAMPLEID	0.0
+marine1.biobox	class	Shannon equitability	SAMPLEID	0.0
+marine1.biobox	order	Shannon diversity	SAMPLEID	3.080220138597309
+marine1.biobox	order	Shannon equitability	SAMPLEID	0.7250143787642549
+marine1.biobox	family	Shannon diversity	SAMPLEID	4.527083875379578
+marine1.biobox	family	Shannon equitability	SAMPLEID	0.8344931954748829
+marine1.biobox	genus	Shannon diversity	SAMPLEID	5.303649929480372
+marine1.biobox	genus	Shannon equitability	SAMPLEID	0.8901094169545566
+marine1.biobox	species	Shannon diversity	SAMPLEID	4.95498741372445
+marine1.biobox	species	Shannon equitability	SAMPLEID	0.8360130347523907
+marine1.biobox	kingdom	True positives	SAMPLEID	1.0
+marine1.biobox	kingdom	False negatives	SAMPLEID	0.0
+marine1.biobox	kingdom	False positives	SAMPLEID	0.0
+marine1.biobox	kingdom	Completeness	SAMPLEID	1.0
+marine1.biobox	kingdom	Purity	SAMPLEID	1.0
+marine1.biobox	kingdom	F1 score	SAMPLEID	1.0
+marine1.biobox	kingdom	Jaccard index	SAMPLEID	1.0
+marine1.biobox	phylum	True positives	SAMPLEID	1.0
+marine1.biobox	phylum	False negatives	SAMPLEID	0.0
+marine1.biobox	phylum	False positives	SAMPLEID	0.0
+marine1.biobox	phylum	Completeness	SAMPLEID	1.0
+marine1.biobox	phylum	Purity	SAMPLEID	1.0
+marine1.biobox	phylum	F1 score	SAMPLEID	1.0
+marine1.biobox	phylum	Jaccard index	SAMPLEID	1.0
+marine1.biobox	class	True positives	SAMPLEID	1.0
+marine1.biobox	class	False negatives	SAMPLEID	0.0
+marine1.biobox	class	False positives	SAMPLEID	0.0
+marine1.biobox	class	Completeness	SAMPLEID	1.0
+marine1.biobox	class	Purity	SAMPLEID	1.0
+marine1.biobox	class	F1 score	SAMPLEID	1.0
+marine1.biobox	class	Jaccard index	SAMPLEID	1.0
+marine1.biobox	order	True positives	SAMPLEID	70.0
+marine1.biobox	order	False negatives	SAMPLEID	13.0
+marine1.biobox	order	False positives	SAMPLEID	0.0
+marine1.biobox	order	Completeness	SAMPLEID	0.8433734939759037
+marine1.biobox	order	Purity	SAMPLEID	1.0
+marine1.biobox	order	F1 score	SAMPLEID	0.9150326797385622
+marine1.biobox	order	Jaccard index	SAMPLEID	0.8433734939759037
+marine1.biobox	family	True positives	SAMPLEID	225.0
+marine1.biobox	family	False negatives	SAMPLEID	45.0
+marine1.biobox	family	False positives	SAMPLEID	2.0
+marine1.biobox	family	Completeness	SAMPLEID	0.8333333333333334
+marine1.biobox	family	Purity	SAMPLEID	0.9911894273127754
+marine1.biobox	family	F1 score	SAMPLEID	0.9054325955734407
+marine1.biobox	family	Jaccard index	SAMPLEID	0.8272058823529411
+marine1.biobox	genus	True positives	SAMPLEID	366.0
+marine1.biobox	genus	False negatives	SAMPLEID	68.0
+marine1.biobox	genus	False positives	SAMPLEID	21.0
+marine1.biobox	genus	Completeness	SAMPLEID	0.8433179723502304
+marine1.biobox	genus	Purity	SAMPLEID	0.9457364341085271
+marine1.biobox	genus	F1 score	SAMPLEID	0.8915956151035324
+marine1.biobox	genus	Jaccard index	SAMPLEID	0.8043956043956044
+marine1.biobox	species	True positives	SAMPLEID	350.0
+marine1.biobox	species	False negatives	SAMPLEID	100.0
+marine1.biobox	species	False positives	SAMPLEID	25.0
+marine1.biobox	species	Completeness	SAMPLEID	0.7777777777777778
+marine1.biobox	species	Purity	SAMPLEID	0.9333333333333333
+marine1.biobox	species	F1 score	SAMPLEID	0.8484848484848485
+marine1.biobox	species	Jaccard index	SAMPLEID	0.7368421052631579
+marine1.biobox	kingdom	L1 norm error	SAMPLEID	0.0
+marine1.biobox	phylum	L1 norm error	SAMPLEID	0.0
+marine1.biobox	class	L1 norm error	SAMPLEID	0.0
+marine1.biobox	order	L1 norm error	SAMPLEID	0.2575803186973906
+marine1.biobox	family	L1 norm error	SAMPLEID	0.3570372849975286
+marine1.biobox	genus	L1 norm error	SAMPLEID	0.4198335237069111
+marine1.biobox	species	L1 norm error	SAMPLEID	0.42380483899427623
+marine1.biobox	na	Weighted UniFrac error	SAMPLEID	0.009321141866846584
+marine1.biobox	na	Unweighted UniFrac error	SAMPLEID	0.19864225073629346
+marine1.biobox	na	Weighted UniFrac (CAMI)	SAMPLEID	1.4582559663961094
+marine1.biobox	na	Unweighted UniFrac (CAMI)	SAMPLEID	876.0
+marine1.biobox	phylum	Sum of abundances	SAMPLEID	1.0
+marine1.biobox	class	Sum of abundances	SAMPLEID	1.0
+marine1.biobox	order	Sum of abundances	SAMPLEID	1.0000000000000004
+marine1.biobox	family	Sum of abundances	SAMPLEID	1.0000000000000009
+marine1.biobox	genus	Sum of abundances	SAMPLEID	0.9954166603639456
+marine1.biobox	species	Sum of abundances	SAMPLEID	0.9319230361977953
+marine1.biobox	phylum	Taxon counts	SAMPLEID	1.0
+marine1.biobox	class	Taxon counts	SAMPLEID	1.0
+marine1.biobox	order	Taxon counts	SAMPLEID	70.0
+marine1.biobox	family	Taxon counts	SAMPLEID	227.0
+marine1.biobox	genus	Taxon counts	SAMPLEID	387.0
+marine1.biobox	species	Taxon counts	SAMPLEID	375.0

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_24.1	7.53	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_191_of_novel_order_237_of_Caudoviricetes; g__Macdonaldcampvirus|Saltrevirus|Shuimuvirus|Skatevirus|Segzyvirus|Akiravirus|Caminolopintovirus|Swiduovirus|Deseoctovirus; s__Skatevirus_Seszw1

@@ -1,0 +1,12 @@
+# Taxonomic Profiling Output
+@SampleID:SAMPLEID
+@Version:0.9.1
+@Ranks:kingdom|phylum|class|order|family|genus|species
+@TaxonomyID:ncbi-taxonomy_DATE
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+1	kingdom	1	p__Uroviricota	100.0
+2	phylum	1|2	p__Uroviricota|c__Caudoviricetes	100.0
+3	class	1|2|3	p__Uroviricota|c__Caudoviricetes|o__Layangavirus	100.0
+4	order	1|2|3|4	p__Uroviricota|c__Caudoviricetes|o__Layangavirus|f__Layangavirus	100.0
+5	family	1|2|3|4|5	p__Uroviricota|c__Caudoviricetes|o__Layangavirus|f__Layangavirus|g__Layangavirus	100.0
+6	genus	1|2|3|4|5|6	p__Uroviricota|c__Caudoviricetes|o__Layangavirus|f__Layangavirus|g__Layangavirus|s__Layangavirus LY1	100.0

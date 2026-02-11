@@ -1,0 +1,10 @@
+ 99.72	1421	1421	0	0	U	0	unclassified
+  0.28	4	0	377	68	R	1	root
+  0.28	4	0	266	44	D	10239	  Viruses
+  0.28	4	0	266	44	D1	2731341	    Duplodnaviria
+  0.28	4	0	266	44	K	2731360	      Heunggongvirae
+  0.28	4	0	266	44	P	2731618	        Uroviricota
+  0.28	4	0	266	44	C	2731619	          Caudoviricetes
+  0.28	4	0	266	44	O	28883	            Caudovirales
+  0.28	4	0	266	44	F	10699	              Siphoviridae
+  0.28	4	0	87	16	G	2560170	                Lokivirus

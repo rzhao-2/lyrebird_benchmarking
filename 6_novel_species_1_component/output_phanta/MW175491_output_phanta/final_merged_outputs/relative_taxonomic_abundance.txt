@@ -1,0 +1,2 @@
+Taxon_Lineage_with_Names	Taxon_Lineage_with_IDs	MW175491
+no rank_root|superkingdom_Viruses|clade_Duplodnaviria|kingdom_Heunggongvirae|phylum_Uroviricota|class_Caudoviricetes|order_Caudovirales|family_Myoviridae|genus_Otagovirus|species_Pseudomonas virus Psa374	no rank_1|superkingdom_10239|clade_2731341|kingdom_2731360|phylum_2731618|class_2731619|order_28883|family_10662|genus_2560197|species_2560680	1.0

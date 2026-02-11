@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_20.1	11.34	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_247_of_Caudoviricetes; f__novel_family_38_of_novel_order_247_of_Caudoviricetes; g__Uetakevirus; s__Enterobacter_phage_Tyrion

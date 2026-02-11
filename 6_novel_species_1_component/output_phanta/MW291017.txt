@@ -1,0 +1,1 @@
+MW291017	local_reads/MW291017.1.fq.gz	local_reads/MW291017.2.fq.gz

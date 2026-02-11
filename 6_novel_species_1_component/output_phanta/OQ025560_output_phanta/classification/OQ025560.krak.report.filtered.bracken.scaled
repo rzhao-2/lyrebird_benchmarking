@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+s__Pasteurella phage F108, complete genome	2911430	S	695	0	695	1.0	29828.0	1.0	1.0	6.990076438245944	23300.2548	1000000.0	33525546.466407407	9985.82348320849	0.351172641801839

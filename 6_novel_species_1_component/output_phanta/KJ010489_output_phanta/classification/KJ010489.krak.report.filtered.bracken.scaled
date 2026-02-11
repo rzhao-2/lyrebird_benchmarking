@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Enterococcus phage IME-EFm1	1445858	S	1375	40	1415	1.0	42098.0	1.0	1.0	10.083614423488052	33612.0481	1000000.0	23754097.581832867	7202.5817310628945	0.969073482428115

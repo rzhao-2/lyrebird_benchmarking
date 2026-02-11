@@ -1,0 +1,5 @@
+sample	coverage	taxonomy
+MH424444.1	0.55	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes
+MH424444.1	2.19	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Cornellvirus
+MH424444.1	5.22	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Cornellvirus; s__Cornellvirus_SP31
+MH424444.1	1.27	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Cornellvirus; s__Salmonella_phage_Shemara

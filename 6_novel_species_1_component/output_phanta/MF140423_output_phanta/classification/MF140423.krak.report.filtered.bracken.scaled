@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Arthrobacter virus Gordon	1982154	S	969	286	1255	1.0	58241.0	1.0	1.0	6.46451812297179	21548.3937	1000000.0	17170034.855170753	4972.706248439838	0.2232671991754702

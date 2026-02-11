@@ -1,0 +1,13 @@
+ 98.53	1813	1813	0	0	U	0	unclassified
+  1.47	27	2	1073	166	R	1	root
+  1.36	25	0	845	124	D	10239	  Viruses
+  1.36	25	0	844	123	D1	2731341	    Duplodnaviria
+  1.36	25	0	844	123	K	2731360	      Heunggongvirae
+  1.36	25	0	844	123	P	2731618	        Uroviricota
+  1.36	25	0	844	123	C	2731619	          Caudoviricetes
+  1.36	25	0	844	123	O	28883	            Caudovirales
+  1.36	25	12	819	120	F	10699	              Siphoviridae
+  0.49	9	9	319	45	G	2733195	                Metamorphoovirus
+  0.22	4	0	94	15	G	2733194	                Mementomorivirus
+  0.22	4	0	94	15	S	2734252	                  Microbacterium virus MementoMori
+  0.22	4	4	94	15	S1	2201436	                    Microbacterium phage MementoMori

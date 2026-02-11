@@ -1,0 +1,1 @@
+OP072867	local_reads/OP072867.1.fq.gz	local_reads/OP072867.2.fq.gz

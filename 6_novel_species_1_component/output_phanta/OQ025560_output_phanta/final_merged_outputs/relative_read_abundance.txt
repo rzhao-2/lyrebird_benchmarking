@@ -1,0 +1,4 @@
+Taxon_Lineage_with_Names	Taxon_Lineage_with_IDs	OQ025560
+no rank_root|no rank_root	no rank_1|no rank_1	1.0
+no rank_root|superkingdom_Viruses	no rank_1|superkingdom_10239	1.0
+no rank_root|superkingdom_Viruses|species_s__Pasteurella phage F108, complete genome	no rank_1|superkingdom_10239|species_2911430	1.0

@@ -1,0 +1,13 @@
+  1.06	15	15	0	0	U	0	unclassified
+ 98.94	1405	0	73678	10164	R	1	root
+ 98.94	1405	0	73600	10158	D	10239	  Viruses
+ 98.94	1405	0	73600	10158	D1	2731341	    Duplodnaviria
+ 98.94	1405	0	73600	10158	K	2731360	      Heunggongvirae
+ 98.94	1405	0	73600	10158	P	2731618	        Uroviricota
+ 98.94	1405	0	73600	10158	C	2731619	          Caudoviricetes
+ 98.94	1405	0	73600	10158	O	28883	            Caudovirales
+ 98.94	1405	15	73568	10153	F	10699	              Siphoviridae
+ 96.48	1370	3	66680	9220	F1	1910976	                Guernseyvirinae
+ 96.27	1367	984	66425	9192	G	1910991	                  Jerseyvirus
+  8.10	115	24	2836	413	G1	2025810	                    unclassified Jerseyvirus
+  1.41	20	20	669	104	G	4000295	                mgv_g_4000295

@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Escherichia virus aalborv	2844239	S	227	1037	1264	1.0	46387.0	1.0	1.0	8.174704119688705	27249.0137	1000000.0	21557764.028714944	6288.233938222082	0.2267657992565055

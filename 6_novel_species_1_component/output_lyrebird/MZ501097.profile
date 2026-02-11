@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+MZ501097.1	0.15	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus
+MZ501097.1	10.09	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_0_of_novel_order_238_of_Caudoviricetes; g__Dhillonvirus; s__Escherichia_phage_PaulFeyerabend

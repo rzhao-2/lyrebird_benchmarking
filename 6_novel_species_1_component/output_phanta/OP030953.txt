@@ -1,0 +1,1 @@
+OP030953	local_reads/OP030953.1.fq.gz	local_reads/OP030953.2.fq.gz

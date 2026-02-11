@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Microbacterium virus MementoMori	2734252	S	1598	0	1598	1.0	54628.0	1.0	1.0	8.775719411290913	29252.398	1000000.0	18305630.81203778	5484.8246320568205	0.4666247571150989

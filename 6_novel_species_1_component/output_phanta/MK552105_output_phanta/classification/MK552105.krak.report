@@ -1,0 +1,36 @@
+ 59.29	1005	1005	0	0	U	0	unclassified
+ 40.71	690	77	21481	2986	R	1	root
+ 36.17	613	0	17314	2369	D	10239	  Viruses
+ 36.17	613	0	17314	2369	D1	2731341	    Duplodnaviria
+ 36.17	613	0	17314	2369	K	2731360	      Heunggongvirae
+ 36.17	613	0	17314	2369	P	2731618	        Uroviricota
+ 36.17	613	0	17314	2369	C	2731619	          Caudoviricetes
+ 36.17	613	38	17314	2369	O	28883	            Caudovirales
+ 33.51	568	5	16466	2259	F	2731691	              Drexlerviridae
+ 33.22	563	75	16200	2217	F1	2732047	                Tempevirinae
+ 22.06	374	319	10469	1427	G	2732068	                  Warwickvirus
+  1.47	25	0	826	135	S	2844263	                    Escherichia virus tonijn
+  1.47	25	0	826	135	S1	2696450	                      Escherichia phage tonijn
+  1.47	25	6	790	129	S2	4041419	                        OTU-32451
+  0.94	16	16	349	54	S3	4059837	                          MGV-GENOME-4423569
+  0.18	3	3	92	18	S3	4126155	                          MGV-GENOME-0311113
+  0.88	15	0	397	46	S	2844264	                    Escherichia virus tonn
+  0.88	15	0	397	46	S1	2696451	                      Escherichia phage tonn
+  0.88	15	0	349	39	S2	4041609	                        OTU-42916
+  0.88	15	15	349	39	S3	4057766	                          MGV-GENOME-0315089
+  0.35	6	0	179	24	S	2844262	                    Escherichia virus tiwna
+  0.35	6	6	179	24	S1	2696449	                      Escherichia phage tiwna
+  0.24	4	0	201	35	S	2734018	                    Escherichia virus SECphi27
+  0.24	4	4	201	35	S1	2496550	                      Escherichia phage SECphi27
+  0.12	2	0	129	15	S	2844265	                    Escherichia virus tonnikala
+  0.12	2	2	129	15	S1	2696452	                      Escherichia phage tonnikala
+  0.06	1	0	127	18	S	2734015	                    Escherichia virus 95
+  0.06	1	1	127	18	S1	2026130	                      Escherichia phage vB_EcoS-95
+  0.06	1	0	93	13	S	2844241	                    Escherichia virus atuna
+  0.06	1	1	93	13	S1	2696385	                      Escherichia phage atuna
+  0.06	1	0	101	21	S	2844266	                    Escherichia virus tunus
+  0.06	1	1	101	21	S1	2696456	                      Escherichia phage tunus
+  6.73	114	100	2658	377	G	2560145	                  Hanrivervirus
+  0.83	14	14	282	32	S	2736192	                    Shigella virus 2019SD1
+  0.41	7	0	560	70	F	10699	              Siphoviridae
+  0.41	7	7	531	67	G	4000233	                mgv_g_4000233

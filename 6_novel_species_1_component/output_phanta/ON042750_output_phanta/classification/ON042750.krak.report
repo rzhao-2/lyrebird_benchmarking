@@ -1,0 +1,13 @@
+ 95.08	561	561	0	0	U	0	unclassified
+  4.92	29	0	969	134	R	1	root
+  4.92	29	0	913	125	D	10239	  Viruses
+  4.92	29	0	913	125	D1	2731341	    Duplodnaviria
+  4.92	29	0	913	125	K	2731360	      Heunggongvirae
+  4.92	29	0	913	125	P	2731618	        Uroviricota
+  4.92	29	0	913	125	C	2731619	          Caudoviricetes
+  4.92	29	0	913	125	O	28883	            Caudovirales
+  4.92	29	0	902	123	F	2842328	              Salasmaviridae
+  4.92	29	4	883	121	F1	542836	                Picovirinae
+  4.24	25	18	796	108	G	2842397	                  Beecentumtrevirus
+  1.19	7	0	111	14	S	2843767	                    Bacillus virus Goe1
+  1.19	7	7	111	14	S1	1807511	                      Bacillus phage vB_BsuP-Goe1

@@ -1,0 +1,12 @@
+ 35.65	1767	1767	0	0	U	0	unclassified
+ 64.35	3189	28	94433	13324	R	1	root
+ 63.78	3161	0	93671	13241	D	10239	  Viruses
+ 63.78	3161	0	93671	13241	D1	2731341	    Duplodnaviria
+ 63.78	3161	0	93671	13241	K	2731360	      Heunggongvirae
+ 63.78	3161	0	93671	13241	P	2731618	        Uroviricota
+ 63.78	3161	0	93671	13241	C	2731619	          Caudoviricetes
+ 63.78	3161	9	93671	13241	O	28883	            Caudovirales
+ 63.60	3152	11	93156	13176	F	2560065	              Herelleviridae
+ 63.38	3141	26	92778	13119	F1	2560071	                Brockvirinae
+ 62.79	3112	2286	90688	12899	G	2732968	                  Schiekvirus
+  0.06	3	0	470	66	G	2560160	                  Kochikohdavirus

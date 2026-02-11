@@ -1,0 +1,1 @@
+MF893340	local_reads/MF893340.1.fq.gz	local_reads/MF893340.2.fq.gz

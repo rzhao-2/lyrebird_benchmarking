@@ -1,0 +1,5 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/home/n10927662/.conda/envs/metaphlan-v4.2.2/bin/metaphlan local_reads/OM262541.1.fq.gz,local_reads/OM262541.2.fq.gz --db_dir /mnt/hpccs01/home/n10927662/db/mpa --mapout output_metaphlan4/OM262541.b2o --nproc 1 --input_type fastq --profile_vsc --vsc_out output_metaphlan4/OM262541.profile -s output_metaphlan4/OM262541.sam
+#SampleID	Metaphlan_Analysis
+M-Group/Cluster	genomeName	len	breadth_of_coverage	mapping_reads_count	RPKM	depth_of_coverage_mean	depth_of_coverage_median	MV_group_type	Assigned_taxonomy	First_genome_in_cluster	Other_genomes_in_cluster
+MV547	VDB|0008-003D-0-0000|MV547-c207-c0-c0	45178	0.8377971579087167	2152	16114.277423519932	8.092998678996038	8.0	known	d__Viruses|r__Duplodnaviria|k__Heunggongvirae|p__Uroviricota|c__Caudoviricetes	NC_013600.1_Sodalis_phage_SO-1 + 5 others	NC_012223.2_Escherichia_phage_SSL-2009a|NC_027383.1_Escherichia_phage_YD-2008.s|NC_031113.1_Escherichia_phage_Gluttony|NC_016566.1_Shigella_phage_EP23|NC_028901.1_Escherichia_phage_slur05

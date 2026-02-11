@@ -1,0 +1,1 @@
+MN850629	local_reads/MN850629.1.fq.gz	local_reads/MN850629.2.fq.gz

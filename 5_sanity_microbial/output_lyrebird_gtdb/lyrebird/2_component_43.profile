@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_43.1	0.25	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_193_of_novel_order_237_of_Caudoviricetes; g__Jedunavirus
+2_component_43.1	8.33	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_193_of_novel_order_237_of_Caudoviricetes; g__Jedunavirus; s__Klebsiella_phage_pKp383

@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Enterobacter virus F20	1095076	S	764	491	1255	1.0	51303.0	1.0	1.0	7.338752119759079	24462.5071	1000000.0	19492037.502680156	5645.193938276215	0.2208981769675411

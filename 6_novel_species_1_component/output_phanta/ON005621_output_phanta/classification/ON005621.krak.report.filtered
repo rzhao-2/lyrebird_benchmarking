@@ -1,0 +1,11 @@
+ 97.52	2004	2004	0	0	U	0	unclassified
+  2.48	51	0	1916	289	R	1	root
+  2.48	51	0	1785	259	D	10239	  Viruses
+  2.48	51	0	1775	258	D1	2731341	    Duplodnaviria
+  2.48	51	0	1775	258	K	2731360	      Heunggongvirae
+  2.48	51	0	1775	258	P	2731618	        Uroviricota
+  2.48	51	0	1775	258	C	2731619	          Caudoviricetes
+  2.48	51	0	1775	258	O	28883	            Caudovirales
+  2.48	51	2	1769	257	F	10699	              Siphoviridae
+  2.38	49	25	1684	244	G	1982355	                Pamexvirus
+  0.63	13	0	738	107	G1	2306284	                  unclassified Pamexvirus

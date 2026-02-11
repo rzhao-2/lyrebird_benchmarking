@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+OP590147.1	4.12	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_377_of_Caudoviricetes; f__novel_family_0_of_novel_order_377_of_Caudoviricetes; g__Wumptrevirus; s__Wumptrevirus_PP

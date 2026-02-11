@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_21.1	8.55	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_48_of_Caudoviricetes; f__novel_family_16_of_novel_order_48_of_Caudoviricetes; g__Pahexavirus; s__Pahexavirus_PHL301M00

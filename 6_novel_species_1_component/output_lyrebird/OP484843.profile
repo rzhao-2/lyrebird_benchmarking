@@ -1,0 +1,6 @@
+sample	coverage	taxonomy
+OP484843.1	0.84	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae
+OP484843.1	2.3	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae; g__Bielevirus
+OP484843.1	0.61	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae; g__novel_genus_80_of_novel_subfamily_0_of_Peduoviridae||novel_family_191_of_novel_order_237_of_Caudoviricetes||novel_family_24_of_novel_order_209_of_Caudoviricetes
+OP484843.1	3.63	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae; g__Bielevirus; s__IMGVR_UViG_2823477701_000001
+OP484843.1	1.83	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_209_of_Caudoviricetes; f__Peduoviridae; g__novel_genus_80_of_novel_subfamily_0_of_Peduoviridae||novel_family_191_of_novel_order_237_of_Caudoviricetes||novel_family_24_of_novel_order_209_of_Caudoviricetes; s__IMGVR_UViG_2937808278_000002

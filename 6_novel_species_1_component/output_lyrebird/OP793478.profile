@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+OP793478.1	9.03	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Salmonella_phage_ZCSE9

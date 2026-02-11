@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_57.1	8.74	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_17_of_Caudoviricetes; f__novel_family_5_of_novel_order_17_of_Caudoviricetes; g__novel_genus_4_of_novel_subfamily_0_of_novel_family_5_of_novel_order_17_of_Caudoviricetes; s__Miltoncavirus_PhiPA3

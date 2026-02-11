@@ -1,0 +1,1 @@
+MT664984	local_reads/MT664984.1.fq.gz	local_reads/MT664984.2.fq.gz

@@ -1,0 +1,17 @@
+ 92.47	2996	2996	0	0	U	0	unclassified
+  7.53	244	6	6005	800	R	1	root
+  7.35	238	0	5741	754	D	10239	  Viruses
+  7.35	238	0	5734	753	D1	2731341	    Duplodnaviria
+  7.35	238	0	5734	753	K	2731360	      Heunggongvirae
+  7.35	238	0	5734	753	P	2731618	        Uroviricota
+  7.35	238	0	5734	753	C	2731619	          Caudoviricetes
+  7.35	238	0	5734	753	O	28883	            Caudovirales
+  7.35	238	63	5655	742	F	10662	              Myoviridae
+  4.44	144	39	4021	520	G	2560197	                Otagovirus
+  2.56	83	0	2360	300	S	2560685	                  Pseudomonas virus VCM
+  2.56	83	83	2360	300	S1	1729937	                    Pseudomonas phage VCM
+  0.68	22	0	1138	159	S	2560680	                  Pseudomonas virus Psa374
+  0.68	22	22	1138	159	S1	1458843	                    Pseudomonas phage phiPsa374
+  0.96	31	29	1243	173	G	2560133	                Flaumdravirus
+  0.06	2	0	239	30	S	2560665	                  Pseudomonas virus KIL2
+  0.06	2	2	239	30	S1	1777069	                    Pseudomonas phage vB_PsyM_KIL4

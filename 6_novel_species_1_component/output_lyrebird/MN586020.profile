@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MN586020.1	7.14	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_44_of_Caudoviricetes; f__novel_family_0_of_novel_order_44_of_Caudoviricetes; g__novel_genus_0_of_novel_subfamily_0_of_novel_family_0_of_novel_order_44_of_Caudoviricetes; s__Microbacterium_phage_Megan

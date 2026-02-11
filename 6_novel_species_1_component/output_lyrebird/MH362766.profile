@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+MH362766.1	0.52	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+MH362766.1	9.52	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_4_of_novel_order_273_of_Caudoviricetes; g__novel_genus_2_of_novel_subfamily_1_of_novel_family_4_of_novel_order_273_of_Caudoviricetes; s__Escherichia_phage_Halfdan

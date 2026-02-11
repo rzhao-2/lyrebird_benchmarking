@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_52.1	9.03	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_86_of_Caudoviricetes; f__novel_family_52_of_novel_order_86_of_Caudoviricetes; g__novel_genus_6_of_novel_subfamily_0_of_novel_family_52_of_novel_order_86_of_Caudoviricetes; s__Thermus_phage_phi_OH2

@@ -1,0 +1,50 @@
+ 31.65	1190	1190	0	0	U	0	unclassified
+ 68.35	2570	20	70615	10060	R	1	root
+ 67.82	2550	2	69613	9966	D	10239	  Viruses
+ 67.77	2548	0	69606	9966	D1	2731341	    Duplodnaviria
+ 67.77	2548	0	69606	9966	K	2731360	      Heunggongvirae
+ 67.77	2548	0	69606	9966	P	2731618	        Uroviricota
+ 67.77	2548	0	69606	9966	C	2731619	          Caudoviricetes
+ 67.77	2548	1	69606	9966	O	28883	            Caudovirales
+ 67.74	2547	27	69267	9900	F	2731690	              Demerecviridae
+ 67.02	2520	970	68402	9754	F1	2732013	                Markadamsvirinae
+ 31.54	1186	794	28317	4005	G	2732017	                  Epseptimavirus
+  5.82	219	0	5878	844	S	2732027	                    Salmonella virus S124
+  5.82	219	219	5878	844	S1	2231351	                      Salmonella phage S124
+  1.38	52	0	1001	136	S	2732023	                    Salmonella virus LVR16A
+  1.38	52	52	1001	136	S1	2041204	                      Salmonella phage LVR16A
+  0.98	37	0	812	123	S	2846117	                    Salmonella virus Sepoy
+  0.98	37	37	812	123	S1	2565517	                      Salmonella phage Sepoy
+  0.48	18	0	888	127	S	2732034	                    Salmonella virus STG2
+  0.48	18	18	888	127	S1	2480623	                      Salmonella phage STG2
+  0.43	16	0	296	40	S	2846082	                    Salmonella virus 1-29
+  0.43	16	16	296	40	S1	2601628	                      Salmonella phage 1-29
+  0.37	14	0	281	41	S	2732035	                    Salmonella virus Sw2
+  0.37	14	14	281	41	S1	2316014	                      Salmonella phage Sw2
+  0.29	11	0	245	27	S	2846129	                    Salmonella virus bombadil
+  0.29	11	11	245	27	S1	2713285	                      Salmonella phage bombadil
+  0.19	7	7	321	61	S	1540099	                    Salmonella virus Stitch
+  0.19	7	0	252	27	S	2846132	                    Salmonella virus fuchur
+  0.19	7	7	252	27	S1	2713299	                      Salmonella phage fuchur
+  0.13	5	0	138	22	S	491003	                    Escherichia virus EPS7
+  0.13	5	5	138	22	S1	2886918	                      Escherichia phage Eps7
+  0.05	2	0	114	22	S	2732020	                    Escherichia virus saus132
+  0.05	2	2	114	22	S1	2024325	                      Escherichia phage saus132
+  0.05	2	0	276	49	S	2846098	                    Salmonella virus SB13
+  0.05	2	2	276	49	S1	2591135	                      Salmonella phage vB_SenS_SB13
+  0.05	2	0	125	19	S	2732021	                    Salmonella virus 123
+  0.05	2	2	125	19	S1	2508061	                      Salmonella phage 1-23
+  8.99	338	266	11766	1809	G	187218	                  Tequintavirus
+  0.64	24	0	714	109	S	352889	                    Escherichia virus H8
+  0.64	24	24	714	109	S1	2886919	                      Escherichia phage H8
+  0.56	21	0	916	179	S	2733988	                    Salmonella virus NR01
+  0.56	21	21	916	179	S1	1647411	                      Salmonella phage NR01
+  0.21	8	0	180	19	S	2733981	                    Escherichia virus chee24
+  0.21	8	8	180	19	S1	2024330	                      Escherichia phage chee24
+  0.21	8	8	209	27	S	2592163	                    Salmonella virus VSe12
+  0.16	6	0	180	34	S	1945575	                    Salmonella virus Shivani
+  0.16	6	6	180	34	S1	1572715	                      Salmonella phage Shivani
+  0.13	5	5	191	23	S	2712970	                    Phage NBEco001
+  0.69	26	0	1813	256	G	2732018	                  Haartmanvirus
+  0.69	26	0	1813	256	S	2732036	                    Yersinia virus phiR201
+  0.69	26	26	1813	256	S1	1206557	                      Yersinia phage phiR2-01

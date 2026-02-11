@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+MT514532.1	1.14	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_31_of_Caudoviricetes; f__novel_family_0_of_novel_order_31_of_Caudoviricetes; g__Andromedavirus
+MT514532.1	4.91	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_31_of_Caudoviricetes; f__novel_family_0_of_novel_order_31_of_Caudoviricetes; g__Andromedavirus; s__Andromedavirus_andromeda

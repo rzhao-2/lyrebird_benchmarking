@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_48.1	0.21	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+2_component_48.1	6.81	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_2_of_novel_order_273_of_Caudoviricetes; g__novel_genus_2_of_Queuovirinae; s__Sphingomonas_phage_vB_StuS_MMDA13

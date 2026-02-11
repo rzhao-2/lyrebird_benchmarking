@@ -1,0 +1,1 @@
+OP031048	local_reads/OP031048.1.fq.gz	local_reads/OP031048.2.fq.gz

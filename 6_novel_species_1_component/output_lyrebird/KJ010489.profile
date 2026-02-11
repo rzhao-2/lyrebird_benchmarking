@@ -1,0 +1,4 @@
+sample	coverage	taxonomy
+KJ010489.1	0.15	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+KJ010489.1	0.68	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes
+KJ010489.1	8.34	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_88_of_Caudoviricetes; f__novel_family_2_of_novel_order_88_of_Caudoviricetes; g__novel_genus_1_of_novel_subfamily_2_of_novel_family_2_of_novel_order_88_of_Caudoviricetes; s__Enterococcus_phage_IME-EFm1

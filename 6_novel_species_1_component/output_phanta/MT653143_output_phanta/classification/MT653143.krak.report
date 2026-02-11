@@ -1,0 +1,62 @@
+  3.26	119	119	0	0	U	0	unclassified
+ 96.74	3536	0	209100	28192	R	1	root
+ 96.74	3536	0	208192	27996	D	10239	  Viruses
+ 96.74	3536	0	208192	27996	D1	2731341	    Duplodnaviria
+ 96.74	3536	0	208192	27996	K	2731360	      Heunggongvirae
+ 96.74	3536	0	208192	27996	P	2731618	        Uroviricota
+ 96.74	3536	0	208192	27996	C	2731619	          Caudoviricetes
+ 96.74	3536	0	208192	27996	O	28883	            Caudovirales
+ 96.74	3536	0	207960	27988	F	2731690	              Demerecviridae
+ 96.74	3536	91	206743	27810	F1	2732013	                Markadamsvirinae
+ 94.17	3442	2706	145665	20467	G	187218	                  Tequintavirus
+  5.09	186	0	3865	586	S	10726	                    Escherichia virus T5
+  5.09	186	186	3865	586	S1	2695836	                      Escherichia phage T5
+  2.49	91	0	2411	339	S	2846099	                    Salmonella virus SE11
+  2.49	91	91	2411	339	S1	2592195	                      Salmonella phage SE11
+  1.59	58	0	1575	251	S	2733990	                    Salmonella virus SP01
+  1.59	58	58	1575	251	S1	1920294	                      Salmonella phage SP01
+  1.40	51	0	1527	209	S	1982564	                    Escherichia virus slur09
+  1.40	51	51	1527	209	S1	1728958	                      Escherichia phage slur09
+  1.12	41	41	1430	190	S	2712979	                    Phage NBSal005
+  1.07	39	0	1009	146	S	10707	                    Escherichia virus BF23
+  1.07	39	39	988	143	S1	4052179	                      OTU-30128
+  0.93	34	0	1030	150	S	352889	                    Escherichia virus H8
+  0.93	34	34	1030	150	S1	2886919	                      Escherichia phage H8
+  0.68	25	0	583	87	S	2846119	                    Salmonella virus Th1
+  0.68	25	25	583	87	S1	2589656	                      Salmonella phage Th1
+  0.68	25	0	827	116	S	2733981	                    Escherichia virus chee24
+  0.68	25	25	827	116	S1	2024330	                      Escherichia phage chee24
+  0.63	23	0	799	110	S	2844232	                    Escherichia virus SP15
+  0.63	23	23	799	110	S1	2184265	                      Escherichia phage SP15
+  0.63	23	0	649	96	S	2733988	                    Salmonella virus NR01
+  0.63	23	23	649	96	S1	1647411	                      Salmonella phage NR01
+  0.52	19	0	592	82	S	2733989	                    Salmonella virus S131
+  0.52	19	19	592	82	S1	2231354	                      Salmonella phage S131
+  0.49	18	0	557	84	S	2844203	                    Escherichia virus HdH2
+  0.49	18	18	557	84	S1	2508174	                      Escherichia phage vB_EcoS_HdH2
+  0.44	16	0	530	101	S	2844254	                    Escherichia virus fp01
+  0.44	16	16	530	101	S1	2315695	                      Escherichia phage fp01
+  0.44	16	0	533	93	S	1112008	                    Escherichia virus AKFV33
+  0.44	16	16	533	93	S1	2681605	                      Escherichia phage vB_EcoS_AKFV33
+  0.38	14	14	213	24	S	2712977	                    Phage NBSal003
+  0.33	12	12	372	52	S	2608320	                    Escherichia virus VEc33
+  0.27	10	0	518	77	S	2733983	                    Escherichia virus Gostya9
+  0.27	10	10	518	77	S1	2182345	                      Escherichia phage Gostya9
+  0.25	9	0	562	81	S	2733986	                    Escherichia virus phiAPCEc03
+  0.25	9	9	562	81	S1	1655307	                      Escherichia phage phiAPCEc03
+  0.25	9	0	426	62	S	2846136	                    Salmonella virus oldekolle
+  0.25	9	9	426	62	S1	2713308	                      Salmonella phage oldekolle
+  0.16	6	0	358	46	S	2733985	                    Escherichia virus OSYSP
+  0.16	6	6	358	46	S1	2020879	                      Escherichia phage OSYSP
+  0.11	4	0	185	32	S	2733982	                    Escherichia virus DT5712
+  0.11	4	4	185	32	S1	1567007	                      Escherichia phage DT571/2
+  0.11	4	4	281	54	S	2712971	                    Phage NBEco002
+  0.03	1	0	192	28	S	2733992	                    Shigella virus SHSML45
+  0.03	1	1	192	28	S1	1863010	                      Shigella phage SHSML-45
+  0.03	1	0	452	70	S	2733993	                    Shigella virus SSP1
+  0.03	1	1	452	70	S1	1983588	                      Shigella phage SSP1
+  0.03	1	0	150	25	S	1945575	                    Salmonella virus Shivani
+  0.03	1	1	150	25	S1	1572715	                      Salmonella phage Shivani
+  0.08	3	0	1181	218	G	2732017	                  Epseptimavirus
+  0.08	3	0	148	21	S	2732023	                    Salmonella virus LVR16A
+  0.08	3	3	148	21	S1	2041204	                      Salmonella phage LVR16A

@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_42.1	1.48	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes; f__novel_family_22_of_novel_order_79_of_Caudoviricetes; g__Sozzivirus; s__IMGVR_UViG_2654587710_000001
+2_component_42.1	6.39	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes; f__novel_family_22_of_novel_order_79_of_Caudoviricetes; g__Sozzivirus; s__Sozzivirus_S13

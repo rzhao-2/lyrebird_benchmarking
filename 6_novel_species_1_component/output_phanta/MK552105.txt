@@ -1,0 +1,1 @@
+MK552105	local_reads/MK552105.1.fq.gz	local_reads/MK552105.2.fq.gz

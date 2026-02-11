@@ -1,0 +1,4 @@
+sample	coverage	taxonomy
+KY379853.1	7.92	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Salmonella_phage_BPS11Q3
+KY379853.1	0.78	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Salmonella_phage_skrot
+KY379853.1	1.24	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Salmonella_phage_NBSal007

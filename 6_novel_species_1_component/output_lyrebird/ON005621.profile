@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+ON005621.1	8.47	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__Mesyanzhinovviridae; g__novel_genus_2_of_Bradleyvirinae; s__Stenotrophomonas_phage_A1432

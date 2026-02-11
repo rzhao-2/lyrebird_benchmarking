@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MF140423.1	7.2	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_69_of_Caudoviricetes; f__novel_family_0_of_novel_order_69_of_Caudoviricetes; g__Gordonvirus; s__Arthrobacter_phage_Nightmare

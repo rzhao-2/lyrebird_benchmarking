@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_67.1	8.19	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_79_of_Caudoviricetes; f__novel_family_6_of_novel_order_79_of_Caudoviricetes; g__Phietavirus; s__Phietavirus_pv55

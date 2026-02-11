@@ -1,0 +1,9 @@
+sample	coverage	taxonomy
+KT716399.1	1.64	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+KT716399.1	1.01	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes
+KT716399.1	0.55	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_2_of_novel_order_273_of_Caudoviricetes
+KT716399.1	0.95	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_8_of_novel_order_237_of_Caudoviricetes
+KT716399.1	0.84	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_2_of_novel_order_273_of_Caudoviricetes; g__novel_genus_0_of_Queuovirinae
+KT716399.1	0.41	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__novel_family_2_of_novel_order_273_of_Caudoviricetes; g__novel_genus_4_of_Queuovirinae
+KT716399.1	0.5	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_8_of_novel_order_237_of_Caudoviricetes; g__novel_genus_3_of_novel_subfamily_0_of_novel_family_8_of_novel_order_237_of_Caudoviricetes
+KT716399.1	1.43	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_8_of_novel_order_237_of_Caudoviricetes; g__novel_genus_8_of_novel_subfamily_0_of_novel_family_8_of_novel_order_237_of_Caudoviricetes

@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Escherichia virus FV3	1914855	S	1586	2400	3986	1.0	135186.0	1.0	1.0	8.845590519728374	29485.3017	1000000.0	7397215.688015032	2211.3976299320934	0.1471383506083821

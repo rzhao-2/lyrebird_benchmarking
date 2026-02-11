@@ -1,0 +1,4 @@
+sample	coverage	taxonomy
+OL539442.1	1.91	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes
+OL539442.1	1.51	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes
+OL539442.1	5.15	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_236_of_Caudoviricetes; f__novel_family_2_of_novel_order_236_of_Caudoviricetes; g__novel_genus_0_of_novel_subfamily_0_of_novel_family_2_of_novel_order_236_of_Caudoviricetes

@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+ON529854.1	7.6	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_273_of_Caudoviricetes; f__Mesyanzhinovviridae; g__novel_genus_1_of_Bradleyvirinae; s__Janthinobacterium_phage_vB_JliM-Donnerlittchen

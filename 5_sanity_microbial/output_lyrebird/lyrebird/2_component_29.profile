@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_29.1	0.69	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_81_of_Caudoviricetes
+2_component_29.1	7.87	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_123_of_Caudoviricetes; f__novel_family_57_of_novel_order_123_of_Caudoviricetes; g__Audreyjarvisvirus; s__Audreyjarvisvirus_WRP3

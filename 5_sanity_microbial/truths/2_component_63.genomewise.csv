@@ -1,0 +1,3 @@
+accession	coverage	fasta	taxonomy	genome_size
+NC_054438.1	10	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/ictv-imgvr/genomes/NC_054438.1.fna	d__Viruses;p__Uroviricota;c__Caudoviricetes;o__novel_order_46_of_Caudoviricetes;f__novel_family_7_of_novel_order_46_of_Caudoviricetes;g__Vendettavirus|Tinalinvirus;s__Vendettavirus_tzgordon	44904
+binchicken_emerge_co141.210	10	/mnt/hpccs01/work/microbiome/abisko/groopm/60_Emerge_MAGs_v4/Field/Aroney_v3/genomes/binchicken_emerge_co141.210.fna	d__Bacteria;p__JAJYCY01;c__JAJYCY01;o__JAJYGY01;f__JAJYGY01;g__;s__	2485313

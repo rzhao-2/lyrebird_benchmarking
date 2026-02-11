@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+ON724010.1	7.01	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_2_of_Caudoviricetes; f__novel_family_5_of_novel_order_2_of_Caudoviricetes; g__novel_genus_1_of_novel_subfamily_11_of_novel_family_5_of_novel_order_2_of_Caudoviricetes; s__Microbacterium_phage_PineapplePizza

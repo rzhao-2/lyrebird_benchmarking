@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Salmonella virus SP31	1911006	S	941	0	941	1.0	42159.0	1.0	1.0	6.696079129011599	22320.2638	1000000.0	23719727.697526034	7440.087921123999	0.3587417267792072

@@ -1,0 +1,30 @@
+ 11.95	187	187	0	0	U	0	unclassified
+ 88.05	1378	3	36295	4956	R	1	root
+ 87.86	1375	0	36196	4938	D	10239	  Viruses
+ 87.86	1375	0	36196	4938	D1	2731341	    Duplodnaviria
+ 87.86	1375	0	36196	4938	K	2731360	      Heunggongvirae
+ 87.86	1375	0	36196	4938	P	2731618	        Uroviricota
+ 87.86	1375	0	36196	4938	C	2731619	          Caudoviricetes
+ 87.86	1375	0	36196	4938	O	28883	            Caudovirales
+ 87.86	1375	667	36189	4938	F	10699	              Siphoviridae
+ 37.25	583	391	12099	1680	G	1623289	                Dhillonvirus
+  6.58	103	48	3533	467	G1	2219214	                  unclassified Dhillonvirus
+  1.85	29	29	1342	170	S	1883202	                    Escherichia phage Gluttony
+  1.28	20	20	955	134	S	1720498	                    Escherichia phage slur05
+  0.38	6	6	525	72	S	1883200	                    Escherichia phage Envy
+  2.30	36	0	898	110	S	1981027	                  Escherichia virus EK99P1
+  2.30	36	36	898	110	S1	1527514	                    Escherichia phage EK99P-1
+  1.09	17	0	1031	153	S	1954380	                  Sodalis virus SO1
+  1.09	17	17	1031	153	S1	673375	                    Sodalis phage SO1
+  0.96	15	0	809	115	S	1954379	                  Shigella virus EP23
+  0.96	15	15	809	115	S1	1109721	                    Shigella phage EP23
+  0.70	11	11	590	81	S	1245890	                  Escherichia virus JL1
+  0.64	10	0	617	85	S	1954378	                  Escherichia virus HK578
+  0.64	10	10	617	85	S1	1147142	                    Escherichia phage HK578
+  7.99	125	73	4605	663	G	4001186	                mgv_g_4001186
+  1.73	27	0	1331	199	S	4037103	                  OTU-54575
+  1.73	27	27	1331	199	S1	4071704	                    MGV-GENOME-0294076
+  1.34	21	0	1481	212	S	4035994	                  OTU-12890
+  1.34	21	21	1481	212	S1	4157224	                    MGV-GENOME-0289659
+  0.26	4	0	425	61	S	4036641	                  OTU-66617
+  0.26	4	4	425	61	S1	4071264	                    MGV-GENOME-0292133

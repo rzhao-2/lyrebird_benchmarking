@@ -1,0 +1,1 @@
+OK040792	local_reads/OK040792.1.fq.gz	local_reads/OK040792.2.fq.gz

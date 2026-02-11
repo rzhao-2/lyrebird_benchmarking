@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+MW291017.1	8.26	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_43_of_Caudoviricetes; f__novel_family_16_of_novel_order_43_of_Caudoviricetes; g__novel_genus_1_of_novel_subfamily_4_of_novel_family_16_of_novel_order_43_of_Caudoviricetes; s__Streptomyces_phage_TurkishDelight

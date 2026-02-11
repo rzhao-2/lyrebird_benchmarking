@@ -1,0 +1,3 @@
+accession	coverage	fasta	taxonomy	genome_size
+NC_023560.1	10	/mnt/hpccs01/work/microbiome/msingle/rossenzhao/ictv-imgvr/genomes/NC_023560.1.fna	d__Viruses;p__Uroviricota;c__Caudoviricetes;o__novel_order_79_of_Caudoviricetes;f__novel_family_22_of_novel_order_79_of_Caudoviricetes;g__Sozzivirus;s__Sozzivirus_S13	43454
+binchicken_emerge_co31.292	10	/mnt/hpccs01/work/microbiome/abisko/groopm/60_Emerge_MAGs_v4/Field/Aroney_v3/genomes/binchicken_emerge_co31.292.fna	d__Bacteria;p__SM23-31;c__SM23-31;o__JAUVVT01;f__JAUVVT01;g__;s__	3809394

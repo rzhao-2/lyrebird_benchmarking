@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+OP030980.1	0.55	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_36_of_Caudoviricetes; f__novel_family_0_of_novel_order_36_of_Caudoviricetes
+OP030980.1	4.02	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_36_of_Caudoviricetes; f__novel_family_0_of_novel_order_36_of_Caudoviricetes; g__novel_genus_0_of_novel_subfamily_0_of_novel_family_0_of_novel_order_36_of_Caudoviricetes

@@ -1,0 +1,5 @@
+sample	coverage	taxonomy
+OK108608.1	0.98	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Salmonella_phage_vB_SalP_LDW16
+OK108608.1	5.02	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Jerseyvirus_SE2
+OK108608.1	1.96	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Salmonella_phage_CTH7
+OK108608.1	0.7	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_238_of_Caudoviricetes; f__novel_family_1_of_novel_order_238_of_Caudoviricetes; g__Jerseyvirus; s__Jerseyvirus_f18SE

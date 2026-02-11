@@ -1,0 +1,2 @@
+sample	coverage	taxonomy
+2_component_74.1	7.23	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_237_of_Caudoviricetes; f__novel_family_4_of_novel_order_237_of_Caudoviricetes; g__novel_genus_12_of_novel_subfamily_0_of_novel_family_4_of_novel_order_237_of_Caudoviricetes; s__Mannheimia_phage_vB_MhS_587AP2

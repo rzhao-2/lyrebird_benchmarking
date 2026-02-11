@@ -1,0 +1,2 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads	median_genome_length	rel_taxon_abundance	genetic_abundance	depth	reads_per_million_bases	reads_per_million_reads	RPMPM	copies_per_million_reads	breadth
+Listeria phage A500	40522	S	1048	247	1295	1.0	37900.0	1.0	1.0	10.25065963060686	34168.8654	1000000.0	26385224.274406333	7885.122792774508	0.9515554867667544

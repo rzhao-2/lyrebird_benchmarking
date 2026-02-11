@@ -1,0 +1,3 @@
+sample	coverage	taxonomy
+2_component_36.1	0.28	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_123_of_Caudoviricetes; f__novel_family_56_of_novel_order_123_of_Caudoviricetes
+2_component_36.1	9.0	Root; d__Viruses; p__Uroviricota; c__Caudoviricetes; o__novel_order_123_of_Caudoviricetes; f__novel_family_56_of_novel_order_123_of_Caudoviricetes; g__Lenusvirus; s__Lenusvirus_lenus
