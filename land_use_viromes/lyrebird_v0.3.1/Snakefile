@@ -1,0 +1,80 @@
+import os
+from os.path import join
+
+fq_dir = "/home/n10927662/rossenzhao/land-use-viromes/fq"
+otu_tables_outdir = "/home/n10927662/rossenzhao/land-use-viromes/lyrebird-0.3.1/otu_tables"
+profiles_output = "/home/n10927662/rossenzhao/land-use-viromes/lyrebird-0.3.1/profiles"
+contigs = "/home/n10927662/rossenzhao/land-use-viromes/genomes/contigs2.fa"
+
+# Ensure output directories exist
+os.makedirs(otu_tables_outdir, exist_ok=True)
+os.makedirs(profiles_output, exist_ok=True)
+# Ensure logs directory exists
+os.makedirs("logs", exist_ok=True)
+
+metapackage = "/mnt/hpccs01/work/microbiome/msingle/rossenzhao/phrogs_v4.1/0.3/metapackage/lyrebird_v0.3.1_phrog_v4.1_20250720.smpkg"
+
+# fastq filenames are in format of {sample}_1.fastq.gz and {sample}_2.fastq.gz
+def get_fastq_filenames(sample):
+    return f"{fq_dir}/{sample}_1.fastq.gz", f"{fq_dir}/{sample}_2.fastq.gz"
+
+# get all samples
+samples = [f.split('_')[0] for f in os.listdir(fq_dir) if f.endswith('.fastq.gz') and '_1.' in f]
+
+rule all:
+    input:
+        expand(join(otu_tables_outdir, "{sample}.otu_table.tsv"), sample=samples),
+        expand(join(profiles_output, "{sample}.profile.tsv"), sample=samples),
+        "lyrebird_0.3.1_contigs.tsv",
+        "lyrebird_0.3.1_clustered_otu_table.tsv"
+
+rule run_lyrebird:
+    input:
+        r1=lambda wildcards: get_fastq_filenames(wildcards.sample)[0],
+        r2=lambda wildcards: get_fastq_filenames(wildcards.sample)[1],
+        db=metapackage
+    output:
+        otu_table=join(otu_tables_outdir, "{sample}.otu_table.tsv"),
+        profile=join(profiles_output, "{sample}.profile.tsv")
+    threads: lambda wildcards, attempt: 2 ** (attempt - 1)
+    resources:
+        mem_mb=lambda wildcards, attempt: 8 * 1024 * (2 ** (attempt - 1)),
+    conda:
+        "singlem-v0.19.0"
+    log:
+        join("logs", "lyrebird_{sample}.log")
+    shell:
+        "lyrebird pipe -1 {input.r1} -2 {input.r2} --output-extras --otu-table {output.otu_table} -p {output.profile} --metapackage {input.db} &> {log}"
+
+rule land_use_cluster:
+    input:
+        otu_tables = expand(join(otu_tables_outdir, "{sample}.otu_table.tsv"), sample=samples),
+    params:
+        otu_table_glob = join(otu_tables_outdir, "*.otu_table.tsv"),
+    output:
+        clustered_otu_table="lyrebird_0.3.1_clustered_otu_table.tsv",
+    threads: 1
+    resources:
+        mem_mb=24 * 1024,
+    conda:
+        "singlem-v0.19.0"
+    log:
+        join("logs", "lyrebird_0.3.1_cluster.log")
+    shell:
+        "singlem summarise --cluster --input-otu-tables {params.otu_table_glob} --output-otu-table {output.clustered_otu_table} &> {log}"
+
+rule lyrebird_contigs:
+    input:
+        contigs=contigs,
+        db=metapackage
+    output:
+        otu_table="lyrebird_0.3.1_contigs.tsv",
+    threads: 32
+    resources:
+        mem_mb=128 * 1024,
+    conda:
+        "singlem-v0.19.0"
+    log:
+        join("logs", "lyrebird_contigs_0.3.1.log")
+    shell:
+        "lyrebird pipe --threads {threads} --genome-fasta-files {input.contigs} --output-extras --otu-table {output.otu_table} --metapackage {input.db} &> {log}"
